@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ds
+title: Games From Scratch
 
 # Your name to show in the footer
 author: Mohamed
@@ -22,8 +22,7 @@ author: Mohamed
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Itch: "https://mohamedag.itch.io/"
-  Author's home: "ds"
+  Author's home: ""
 
 ################
 # --- Logo --- #
@@ -58,6 +57,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
+  itch: mohamedag
   linkedin: Mohamed Gadalla
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
