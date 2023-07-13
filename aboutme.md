@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Who am I
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am just a guy... that sounds cliche. Let's start again. 
+Hi... no, that sounds creepy. Okay, one more time.
+My name is... who cares about my name, though? Besides, it's my name is on the damn website.
+I like to make games. Okay, sounds promising. I also like... what do I like? OH! 
+I like to make games from SCRATCH! BOOM! Got it. First try. I am soooo GOOD at this! Wait, I have something better.
+Hello, I have no experience in gamedev and I'm making games in the hardest way possible... nope it's back to shit.
+Should've stuck with the previous one. Damn it.
 
-What else do you need?
+# What can you expect from this
 
-### My story
+I'm going to use this website as a way to put my thoughts in one place... not that my thoughts are important, but just in case someone also has the same thoughts asme. Of course, you're more welcome to critize and discuss whatever is on here if you want. I would love to get any feedback on anything I post here, event if they are small details. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'll try to keep the posts on the topic of gamedev but, honestly, my thoughts are all over the place and I'll probably use this site to vent about things I hate as well. I'll also try to keep the posting schedule somewhat consistent, but I am known to not keep promises so take everything I take with a side eye and a towerl of your mustache. 
+
+Anyway, enjoy!
