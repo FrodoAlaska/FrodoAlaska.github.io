@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: Why make a from scratch?
-=======
 title: Why make a game from scratch?
->>>>>>> 0f928a9 (Update why-make-a-game-from-scratch)
 subtitle: The ultimate question
 comments: true
 tags: [gamedev, discussion]
