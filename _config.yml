@@ -90,7 +90,7 @@ rss-description: Coding games from scratch
 share-links-active:
   #twitter: true
   #facebook: true
-  #linkedin: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -118,7 +118,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "sdl,games,gamedev,games-from-scratch"
+keywords: "sdl,games,gamedev,games-from-scratch,c++"
 
 ######################################
 # --- Colours / background image --- #
@@ -187,7 +187,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "MohamedAG"
+disqus: "https-mohamedag2002-github-io"
 layout: default
 comments: true
 
