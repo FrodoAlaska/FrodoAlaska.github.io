@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Making a Game From Scratch
-subtitle: Sort of
+title: Why make a from scratch?
+subtitle: The ultimate question
 comments: true
 tags: [gamedev, discussion]
 ---
