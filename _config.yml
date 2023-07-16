@@ -21,8 +21,8 @@ author: Mohamed
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-  Author's home: ""
+  Projects: "projects"
+  Author's home: "home"
 
 ################
 # --- Logo --- #
