@@ -7,13 +7,13 @@ tags: [gamedev, discussion]
 ---
 
 | Chapters: |
-| :--------
+| :-------- |
 | [What?](#what) |
-| [Do you want to make a game or an engine?] (#question) |
-| [What is a game engine?] (#definition) |
-| [Why not use an engine, then?] (#why) |
-| [When to use an engine?] (#why-not) |
-| [How to do it?] (#how) |
+| [Do you want to make a game or an engine?](#question) |
+| [What is a game engine?](#definition) |
+| [Why not use an engine, then?](#why) |
+| [When to use an engine?](#why-not) |
+| [How to do it?](#how) |
 
 
 ## What? {#what}
