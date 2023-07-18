@@ -8,9 +8,9 @@ An arcade space shooter made in SDL and C++
 
 Game: 
 
-Source: [Poly Shooter](http://github.com/MohamedAG2002/PolyShooter)
+Source Code: [Poly Shooter](http://github.com/MohamedAG2002/PolyShooter)
 
-***
+<hr>
 
 ## Evader
 A 2D game where you have to evade cars to not get killed. Powerded by Godot
