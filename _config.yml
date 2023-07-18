@@ -20,9 +20,9 @@ author: Mohamed
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Author's home: "blog"
   Projects: "projects"
-  Author's home: "home"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
