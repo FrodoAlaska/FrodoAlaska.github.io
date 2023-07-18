@@ -6,15 +6,6 @@ comments: true
 tags: [gamedev, discussion]
 ---
 
-| Chapters: |
-| :-------- |
-| [What?](#what) |
-| [Do you want to make a game or an engine?](#question) |
-| [What is a game engine?](#definition) |
-| [Why not use an engine, then?](#why) |
-| [When to use an engine?](#why-not) |
-| [How to do it?](#how) |
-
 
 ## What? {#what}
 Programming a game from scratch is not the easiest thing to do in the world. It is, in fact, very difficult. Some might even say it is a pointless and time-wasting endeavor. Why waste time programming systems which already exist and are way better than whatever it is you're going to write? Why waste *time* programming such things when you can spend that time learning other tools which will get the job done in an easier and faster way? Of course, everyone is entitled to their own opinion and I, nor anyone else, has the right to take that away from you. However, what I am trying to do here today is not to invalidate your opinions but, rather, I will try to make you understand why someone--me or anyone else--might program games from scratch in 2023--or whatever year you're in--while having many other superior tools at our disposal. And who knows? Perhaps you will like the idea and would like to give it a try sometime.
