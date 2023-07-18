@@ -7,7 +7,7 @@ tags: [gamedev, discussion]
 ---
 
 | Chapters: |
-| :-------------------------------------------------------
+| :--------
 | [What?](#what) |
 | [Do you want to make a game or an engine?] (#question) |
 | [What is a game engine?] (#definition) |
