@@ -5,7 +5,7 @@ title: Projects
 
 ## Games:
 
-- [Poly Shooter](http://github.com/MohamedAG2002/PolyShooter): An arcade space shooter made in SDL and C++. [Game]() 
+- [Poly Shooter](http://github.com/MohamedAG2002/PolyShooter): An arcade space shooter made in SDL and C++. [Game](https://mohamedag.itch.io/poly-shooter) 
 
 - [Evader](http://github.com/MohamedAG2002/Evader): A 2D game where you have to evade cars to not get killed. Powerded by Godot. [Game](https://mohamedag.itch.io/evader)
 
