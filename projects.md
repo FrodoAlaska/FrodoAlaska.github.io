@@ -18,3 +18,7 @@ title: Projects
 - [Snake Eater](http://github.com/MohamedAG2002/Snake-Eater): A simple Snake clone with the game library SFML and C++. [Game](https://mohamedag.itch.io/snake-eater)
 
 - [Brock The Breaker](http://github.com/MohamedAG2002/Brock-The-Breaker): A Breakout clone made in SFML and C++. [Game](https://mohamedag.itch.io/brock-the-breaker)
+
+## CLI
+
+- [Backlog](http://github.com/MohamedAG2002/Backlog): A CLI tool to add a game, movie, tv show, or anime your ever-growing backlog.
