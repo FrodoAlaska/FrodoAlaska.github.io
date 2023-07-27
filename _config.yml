@@ -55,7 +55,7 @@ social-network-links:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: MohamedAG2002
+  medium: MohamedAG
 #  reddit: yourname
   itch: mohamedag
   linkedin: Mohamed Gadalla
@@ -88,10 +88,9 @@ rss-description: Coding games from scratch
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
   linkedin: true
-  vk: false
+  medium: true
+  github: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
