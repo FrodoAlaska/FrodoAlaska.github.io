@@ -19,6 +19,10 @@ title: Projects
 
 - [Brock The Breaker](http://github.com/MohamedAG2002/Brock-The-Breaker): A Breakout clone made in SFML and C++. [Game](https://mohamedag.itch.io/brock-the-breaker)
 
-## CLI
+## CLI tools
 
-- [Backlog](http://github.com/MohamedAG2002/Backlog): A CLI tool to add a game, movie, tv show, or anime your ever-growing backlog.
+- [Backlog](http://github.com/MohamedAG2002/Backlog): A CLI tool to add games, movies, tv shows, or anime to your ever-growing backlog.
+
+## Libraries
+
+- [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
