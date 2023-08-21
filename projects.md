@@ -26,3 +26,4 @@ title: Projects
 ## Libraries
 
 - [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
+- [Gilgamesh](https://github.com/MohamedAG2002/Gilgamesh): A crude, simple, ECS-based 2D game engine made in SDL2. Still a work in progress.
