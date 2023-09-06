@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our Only Hope - Develog 0
-subtitle: Why it's good to prototype
+title: Why it's prototyping is amazing
+subtitle: Our Only Hope - Devlog 0
 comments: true
 tags: [gamedev, devlog, our-only-hope]
 ---
