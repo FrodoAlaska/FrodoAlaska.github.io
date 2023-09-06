@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why prototyping is amazing
+title: The Importance Of Prototyping
 subtitle: Our Only Hope - Devlog 0
 comments: true
 tags: [gamedev, devlog, our-only-hope]
