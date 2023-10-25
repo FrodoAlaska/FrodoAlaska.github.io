@@ -4,6 +4,7 @@ title: Projects
 ---
 
 ## Games:
+- [Our Only Hope](http://github.com/MohamedAG2002/OurOnlyHope): A medieval peasant trying to defend his village from waves of zombies with only a spear. [Game](https://mohamedag.itch.io/OurOnlyHope) 
 
 - [Poly Shooter](http://github.com/MohamedAG2002/PolyShooter): An arcade space shooter made in SDL and C++. [Game](https://mohamedag.itch.io/poly-shooter) 
 
