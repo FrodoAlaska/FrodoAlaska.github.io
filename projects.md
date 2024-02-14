@@ -12,6 +12,7 @@ title: Projects
 ## CLI tools
 
 - [Backlog](http://github.com/MohamedAG2002/Backlog): A CLI tool to add games, movies, tv shows, or anime to your ever-growing backlog.
+- [Ymir](http://github.com/MohamedAG2002/Ymir): A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.
 
 ## Games:
 
