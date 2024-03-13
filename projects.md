@@ -16,7 +16,7 @@ title: Projects
 
 ## Games:
 
-- [Who Am I?](http://github.com/MohamedAG2002/OurOnlyHope): A linear story-based 2D side-scroller made with Raylib. [Game](https://mohamedag.itch.io/who-am-i)
+- [Who Am I?](http://github.com/MohamedAG2002/WhoAmI): A linear story-based 2D side-scroller made with Raylib. [Game](https://mohamedag.itch.io/who-am-i)
 
 - [Our Only Hope](http://github.com/MohamedAG2002/OurOnlyHope): A medieval peasant trying to defend his village from waves of zombies with only a spear. [Game](https://mohamedag.itch.io/our-only-hope) 
 
