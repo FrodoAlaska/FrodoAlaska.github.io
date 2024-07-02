@@ -7,7 +7,7 @@ title: Projects
 
 - [WonderAudio](https://github.com/MohamedAG2002/WonderAudio): A library for loading and playing audio clips made in C++.
 - [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
-- [Gilgamesh](https://github.com/MohamedAG2002/Gilgamesh): A crude, simple, ECS-based 2D game engine. Still a work in progress.
+- [Gravel](https://github.com/MohamedAG2002/Gravel): A minimalist game framework built with GLFW and OpenGL. Brought to you by C++.
 
 ## CLI tools
 
@@ -15,7 +15,9 @@ title: Projects
 - [Ymir](http://github.com/MohamedAG2002/Ymir): A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.
 
 ## Games:
-- [Cube Run](http://github.com/MohamedAG2002/CubeRun): A minimal 3D endless runner made entirely from scratch using OpenGL and C++. [Game](https://mohamedag.itch.io/cube-run) 
+Cube Run 
+![Cube Run!](./assets/img/cube_run-3.png "My first 3D game. How beautiful")
+[GitHub](http://github.com/MohamedAG2002/CubeRun): A minimal 3D endless runner made entirely from scratch using OpenGL and C++. [Itch](https://mohamedag.itch.io/cube-run) 
 
 - [Who Am I?](http://github.com/MohamedAG2002/WhoAmI): A linear story-based 2D side-scroller made with Raylib. [Game](https://mohamedag.itch.io/who-am-i)
 
