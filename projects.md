@@ -16,7 +16,7 @@ title: Projects
 
 ## Games:
 Cube Run 
-![Cube Run!](./assets/img/cube_run-3.png "My first 3D game. How beautiful")
+![Cube Run!](assets/img/cube_run-3.png "My first 3D game. How beautiful")
 [GitHub](http://github.com/MohamedAG2002/CubeRun): A minimal 3D endless runner made entirely from scratch using OpenGL and C++. [Itch](https://mohamedag.itch.io/cube-run) 
 
 - [Who Am I?](http://github.com/MohamedAG2002/WhoAmI): A linear story-based 2D side-scroller made with Raylib. [Game](https://mohamedag.itch.io/who-am-i)
