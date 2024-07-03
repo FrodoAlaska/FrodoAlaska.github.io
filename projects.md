@@ -6,25 +6,29 @@ title: Projects
 ## Libraries
 
 [WonderAudio](https://github.com/MohamedAG2002/WonderAudio): A library for loading and playing audio clips made in C++.
+
 [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
 
 ![Gravel](https://mohamedag2002.github.io/assets/img/gravel.png "A minimalist game framework built with GLFW and OpenGL. Brought to you by C++.")
 
-Gravel [GitHub](https://github.com/MohamedAG2002/Gravel)
+_Gravel_ [GitHub](https://github.com/MohamedAG2002/Gravel)
 
 ## CLI tools
 
 [Backlog](http://github.com/MohamedAG2002/Backlog): A CLI tool to add games, movies, tv shows, or anime to your ever-growing backlog.
 
 ![Ymir](https://mohamedag2002.github.io/assets/img/ymir.png "A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.")
+
 Ymir [GitHub](http://github.com/MohamedAG2002/Ymir)
 
 ## Games:
 ![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
-Cube Run [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
+
+*Cube Run* [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
 ![Who Am I?](https://mohamedag2002.github.io/assets/img/who-am-i.png "A linear story-based 2D side-scroller made with Raylib.")
-Who Am I? [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
+
+_Who Am I?_ [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
 
 ![Our Only Hope](https://mohamedag2002.github.io/assets/img/our-only-hope.png "A medieval peasant trying to defend his village from waves of zombies with only a spear.")
 
