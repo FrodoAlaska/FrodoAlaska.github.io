@@ -17,11 +17,11 @@ title: Projects
 ## Games:
 ![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
 
-[GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
+Cube Run [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
-![Who Am I?](https://mohamedag2002.github.io//assets/img/wai-3.png "A linear story-based 2D side-scroller made with Raylib.")
+![Who Am I?](https://mohamedag2002.github.io/assets/img/wai-3.png "A linear story-based 2D side-scroller made with Raylib.")
 
-[GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
+Who Am I? [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
 
 - [Our Only Hope](http://github.com/MohamedAG2002/OurOnlyHope): A medieval peasant trying to defend his village from waves of zombies with only a spear. [Game](https://mohamedag.itch.io/our-only-hope) 
 
