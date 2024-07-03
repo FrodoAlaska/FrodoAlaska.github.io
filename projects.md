@@ -11,7 +11,7 @@ title: Projects
 
 ![Gravel](https://mohamedag2002.github.io/assets/img/gravel.png "A minimalist game framework built with GLFW and OpenGL. Brought to you by C++.")
 
-_Gravel_ [GitHub](https://github.com/MohamedAG2002/Gravel)
+__Gravel__ [GitHub](https://github.com/MohamedAG2002/Gravel)
 
 ## CLI tools
 
@@ -19,45 +19,45 @@ _Gravel_ [GitHub](https://github.com/MohamedAG2002/Gravel)
 
 ![Ymir](https://mohamedag2002.github.io/assets/img/ymir.png "A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.")
 
-Ymir [GitHub](http://github.com/MohamedAG2002/Ymir)
+__Ymir__ [GitHub](http://github.com/MohamedAG2002/Ymir)
 
 ## Games:
 ![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
 
-*Cube Run* [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
+__Cube Run__ [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
 ![Who Am I?](https://mohamedag2002.github.io/assets/img/who-am-i.png "A linear story-based 2D side-scroller made with Raylib.")
 
-_Who Am I?_ [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
+__Who Am I?__ [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
 
 ![Our Only Hope](https://mohamedag2002.github.io/assets/img/our-only-hope.png "A medieval peasant trying to defend his village from waves of zombies with only a spear.")
 
-Our Only Hope [GitHub](http://github.com/MohamedAG2002/OurOnlyHope) [Itch](https://mohamedag.itch.io/our-only-hope) 
+__Our Only Hope__ [GitHub](http://github.com/MohamedAG2002/OurOnlyHope) [Itch](https://mohamedag.itch.io/our-only-hope) 
 
 ![Poly Shooter](https://mohamedag2002.github.io/assets/img/poly-shooter-1.png "An arcade space shooter made in SDL and C++.")
 
-Poly Shooter [GitHub](http://github.com/MohamedAG2002/PolyShooter) [Itch](https://mohamedag.itch.io/poly-shooter) 
+__Poly Shooter__ [GitHub](http://github.com/MohamedAG2002/PolyShooter) [Itch](https://mohamedag.itch.io/poly-shooter) 
 
 ![Evader](https://mohamedag2002.github.io/assets/img/evader.png "A 2D game where you have to evade cars to not get killed. Powerded by Godot.")
 
-Evader [GitHub](http://github.com/MohamedAG2002/Evader) [Itch](https://mohamedag.itch.io/evader)
+__Evader__ [GitHub](http://github.com/MohamedAG2002/Evader) [Itch](https://mohamedag.itch.io/evader)
 
 ![Lepey](https://mohamedag2002.github.io/assets/img/lepey.png "A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun. Made using MonoGame and C#.")
 
-Lepey The Covetous [GitHub](http://github.com/MohamedAG2002/Lepey-The-Covetous) [Itch](https://mohamedag.itch.io/lepey-the-covetous)
+__Lepey The Covetous__ [GitHub](http://github.com/MohamedAG2002/Lepey-The-Covetous) [Itch](https://mohamedag.itch.io/lepey-the-covetous)
 
 ![The Horde](https://mohamedag2002.github.io/assets/img/horde.png "A 2D top-down zombie shooter made in MonoGame and C#.")
 
-The Horde [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https://mohamedag.itch.io/the-horde)
+__The Horde__ [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https://mohamedag.itch.io/the-horde)
 
 ![Ceaseless](https://mohamedag2002.github.io/assets/img/ceaseless.png "A simple 2D endless runner made in Raylib and C++.")
 
-Ceaseless [GitHub](http://github.com/MohamedAG2002/Ceaseless) [Itch](https://mohamedag.itch.io/ceaseless)
+__Ceaseless__ [GitHub](http://github.com/MohamedAG2002/Ceaseless) [Itch](https://mohamedag.itch.io/ceaseless)
 
 ![Snake](https://mohamedag2002.github.io/assets/img/snake.png "A simple Snake clone with the game library SFML and C++.")
 
-Snake Eater [GitHub](http://github.com/MohamedAG2002/Snake-Eater) [Itch](https://mohamedag.itch.io/snake-eater)
+__Snake Eater__ [GitHub](http://github.com/MohamedAG2002/Snake-Eater) [Itch](https://mohamedag.itch.io/snake-eater)
 
 ![Brock](https://mohamedag2002.github.io/assets/img/brock.png "A Breakout clone made in SFML and C++.")
 
-Brock The Breaker [GitHub](http://github.com/MohamedAG2002/Brock-The-Breaker) [Itch](https://mohamedag.itch.io/brock-the-breaker)
+__Brock The Breaker__ [GitHub](http://github.com/MohamedAG2002/Brock-The-Breaker) [Itch](https://mohamedag.itch.io/brock-the-breaker)
