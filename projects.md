@@ -15,11 +15,11 @@ title: Projects
 - [Ymir](http://github.com/MohamedAG2002/Ymir): A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.
 
 ## Games:
-![Cube Run](https://mohamedag2002/github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
+![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
 
 [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
-![Who Am I?](https://mohamedag2002/github.io/assets/img/wai-3.png "A linear story-based 2D side-scroller made with Raylib.")
+![Who Am I?](https://mohamedag2002/github.io//assets/img/wai-3.png "A linear story-based 2D side-scroller made with Raylib.")
 
 [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
 
