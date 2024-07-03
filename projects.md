@@ -54,12 +54,16 @@ __The Horde__ [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https:/
 
 __Ceaseless__ [GitHub](http://github.com/MohamedAG2002/Ceaseless) [Itch](https://mohamedag.itch.io/ceaseless)
 
----
+***
+
 ![Snake](https://mohamedag2002.github.io/assets/img/snake.png "A simple Snake clone with the game library SFML and C++.")
 
 __Snake Eater__ [GitHub](http://github.com/MohamedAG2002/Snake-Eater) [Itch](https://mohamedag.itch.io/snake-eater)
 
----
+***
+
 ![Brock](https://mohamedag2002.github.io/assets/img/brock.png "A Breakout clone made in SFML and C++.")
 
 __Brock The Breaker__ [GitHub](http://github.com/MohamedAG2002/Brock-The-Breaker) [Itch](https://mohamedag.itch.io/brock-the-breaker)
+
+***
