@@ -5,14 +5,25 @@ title: Projects
 
 ## Libraries
 
+----------
+
 [WonderAudio](https://github.com/MohamedAG2002/WonderAudio): A library for loading and playing audio clips made in C++.
+
+----------
+
+----------
 
 [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
 
+----------
+
+----------
 
 __Gravel__ [GitHub](https://github.com/MohamedAG2002/Gravel)
 
 ![Gravel](https://mohamedag2002.github.io/assets/img/gravel.png "A minimalist game framework built with GLFW and OpenGL. Brought to you by C++.")
+
+----------
 
 ## CLI tools
 
