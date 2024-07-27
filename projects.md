@@ -5,25 +5,13 @@ title: Projects
 
 ## Libraries
 
----
-
 [WonderAudio](https://github.com/MohamedAG2002/WonderAudio): A library for loading and playing audio clips made in C++.
 
----
-
----
-
 [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
-
----
-
-----------
 
 __Gravel__ [GitHub](https://github.com/MohamedAG2002/Gravel)
 
 ![Gravel](https://mohamedag2002.github.io/assets/img/gravel.png "A minimalist game framework built with GLFW and OpenGL. Brought to you by C++.")
-
-----------
 
 ## CLI tools
 
@@ -33,7 +21,7 @@ __Ymir__ [GitHub](http://github.com/MohamedAG2002/Ymir)
 
 ![Ymir](https://mohamedag2002.github.io/assets/img/ymir.png "A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.")
 
-## Games:
+## Games
 __Cube Run__ [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
 ![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
@@ -58,10 +46,6 @@ __The Horde__ [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https:/
 
 ![The Horde](https://mohamedag2002.github.io/assets/img/horde.png "A 2D top-down zombie shooter made in MonoGame and C#.")
 
-___
-
 __Ceaseless__ [GitHub](http://github.com/MohamedAG2002/Ceaseless) [Itch](https://mohamedag.itch.io/ceaseless)
 
 ![Ceaseless](https://mohamedag2002.github.io/assets/img/ceaseless.png "A simple 2D endless runner made in Raylib and C++.")
-
-___
