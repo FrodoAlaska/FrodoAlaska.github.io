@@ -5,17 +5,17 @@ title: Projects
 
 ## Libraries
 
-----------
+---
 
 [WonderAudio](https://github.com/MohamedAG2002/WonderAudio): A library for loading and playing audio clips made in C++.
 
-----------
+---
 
-----------
+---
 
 [MSTR](https://github.com/MohamedAG2002/MSTR): A simple string library made purely in C. Powered by my hate for C++.
 
-----------
+---
 
 ----------
 
