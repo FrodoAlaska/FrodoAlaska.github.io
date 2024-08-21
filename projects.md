@@ -22,6 +22,10 @@ __Ymir__ [GitHub](http://github.com/MohamedAG2002/Ymir)
 ![Ymir](https://mohamedag2002.github.io/assets/img/ymir.png "A lightweight, simple, Linux-based C++ project generator. It's a CLI but there is a GUI version as well.")
 
 ## Games
+__The Problem Solver__ [GitHub](http://github.com/MohamedAG2002/TheProblemSolver) [Itch](https://frodoalaska.itch.io/the-problem-solver)
+
+![The Problem Solver](https://mohamedag2002.github.io/assets/img/tps-2.png "A 3D western arcade shooter. Except, you are playing to solve your life's problems.")
+
 __Cube Run__ [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
 ![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
