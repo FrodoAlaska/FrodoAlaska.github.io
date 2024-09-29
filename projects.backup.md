@@ -36,7 +36,7 @@ __Who Am I?__ [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mo
 
 __Our Only Hope__ [GitHub](http://github.com/MohamedAG2002/OurOnlyHope) [Itch](https://mohamedag.itch.io/our-only-hope) 
 
-![Our Only Hope](https://mohamedag2002.github.io/assets/img/our-only-hope.png "A medieval peasant trying to defend his village from waves of zombies with only a spear.")
+![Our Only Hope](https://mohamedag2002.github.io/assets/img/our-only-hope.png "")
 
 __Poly Shooter__ [GitHub](http://github.com/MohamedAG2002/PolyShooter) [Itch](https://mohamedag.itch.io/poly-shooter) 
 
