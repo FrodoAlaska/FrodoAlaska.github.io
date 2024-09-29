@@ -28,11 +28,11 @@ __The Problem Solver__ [GitHub](http://github.com/MohamedAG2002/TheProblemSolver
 
 __Cube Run__ [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
-![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "A minimal 3D endless runner made entirely from scratch using OpenGL and C++")
+![Cube Run](https://mohamedag2002.github.io/assets/img/cube_run-3.png "")
 
 __Who Am I?__ [GitHub](http://github.com/MohamedAG2002/WhoAmI) [Itch](https://mohamedag.itch.io/who-am-i)
 
-![Who Am I?](https://mohamedag2002.github.io/assets/img/who-am-i.png "A linear story-based 2D side-scroller made with Raylib.")
+![Who Am I?](https://mohamedag2002.github.io/assets/img/who-am-i.png "")
 
 __Our Only Hope__ [GitHub](http://github.com/MohamedAG2002/OurOnlyHope) [Itch](https://mohamedag.itch.io/our-only-hope) 
 
