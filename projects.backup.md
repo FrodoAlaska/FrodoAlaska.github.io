@@ -40,11 +40,11 @@ __Our Only Hope__ [GitHub](http://github.com/MohamedAG2002/OurOnlyHope) [Itch](h
 
 __Poly Shooter__ [GitHub](http://github.com/MohamedAG2002/PolyShooter) [Itch](https://mohamedag.itch.io/poly-shooter) 
 
-![Poly Shooter](https://mohamedag2002.github.io/assets/img/poly-shooter-1.png "An arcade space shooter made in SDL and C++.")
+![Poly Shooter](https://mohamedag2002.github.io/assets/img/poly-shooter-1.png "")
 
 __Lepey The Covetous__ [GitHub](http://github.com/MohamedAG2002/Lepey-The-Covetous) [Itch](https://mohamedag.itch.io/lepey-the-covetous)
 
-![Lepey](https://mohamedag2002.github.io/assets/img/lepey.png "A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun. Made using MonoGame and C#.")
+![Lepey](https://mohamedag2002.github.io/assets/img/lepey.png "")
 
 __The Horde__ [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https://mohamedag.itch.io/the-horde)
 

@@ -39,3 +39,10 @@ Tools: C++, SDL2
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/PolyShooter)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/poly-shooter)
+
+__Lepey The Covetous__: A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun
+
+Tools: C#, MonoGame
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/LepeyTheCovetous)
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/lepey-the-covetous)
