@@ -1,0 +1,2 @@
+- Git icon: https://www.flaticon.com/authors/riajulislam
+- Itch icon: https://icons8.com/icon/zfuVDK4SdKFq/itch-io
