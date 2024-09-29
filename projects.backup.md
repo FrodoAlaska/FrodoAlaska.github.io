@@ -24,7 +24,7 @@ __Ymir__ [GitHub](http://github.com/MohamedAG2002/Ymir)
 ## Games
 __The Problem Solver__ [GitHub](http://github.com/MohamedAG2002/TheProblemSolver) [Itch](https://frodoalaska.itch.io/the-problem-solver)
 
-![The Problem Solver](https://mohamedag2002.github.io/assets/img/tps-2.png "A 3D western arcade shooter. Except, you are playing to solve your life's problems.")
+![The Problem Solver](https://mohamedag2002.github.io/assets/img/tps-2.png "")
 
 __Cube Run__ [GitHub](http://github.com/MohamedAG2002/CubeRun) [Itch](https://mohamedag.itch.io/cube-run) 
 
