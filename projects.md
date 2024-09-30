@@ -16,7 +16,7 @@ title: Projects
 
  __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems. 
 
-Tools: C++, OpenGL, GLFW3
+Tools: _C++, OpenGL, GLFW3_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheProblemSolver) 
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
@@ -24,7 +24,7 @@ Tools: C++, OpenGL, GLFW3
 
 __Cube Run__: A minimal 3D endless runner made entirely from scratch
 
-Tools: C++, OpenGL, GLFW3
+Tools: _C++, OpenGL, GLFW3_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/CubeRun)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run)             
