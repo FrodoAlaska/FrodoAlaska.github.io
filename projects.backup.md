@@ -48,8 +48,8 @@ __Lepey The Covetous__ [GitHub](http://github.com/MohamedAG2002/Lepey-The-Coveto
 
 __The Horde__ [GitHub](http://github.com/MohamedAG2002/The-Horde) [Itch](https://mohamedag.itch.io/the-horde)
 
-![The Horde](https://mohamedag2002.github.io/assets/img/horde.png "A 2D top-down zombie shooter made in MonoGame and C#.")
+![The Horde](https://mohamedag2002.github.io/assets/img/horde.png "")
 
 __Ceaseless__ [GitHub](http://github.com/MohamedAG2002/Ceaseless) [Itch](https://mohamedag.itch.io/ceaseless)
 
-![Ceaseless](https://mohamedag2002.github.io/assets/img/ceaseless.png "A simple 2D endless runner made in Raylib and C++.")
+![Ceaseless](https://mohamedag2002.github.io/assets/img/ceaseless.png "")

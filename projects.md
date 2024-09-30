@@ -5,12 +5,12 @@ title: Projects
 
 # Games
 
-__The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems. 
-
-Tools: C++, OpenGL, GLFW3
-
-[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheProblemSolver)
-[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)
+| __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems. |
+|                                                                                                             |
+|Tools: C++, OpenGL, GLFW3                                                                                    |
+|                                                                                                             |
+|[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheProblemSolver) |
+|[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)       |
 
 __Cube Run__: A minimal 3D endless runner made entirely from scratch using OpenGL and C++
 
@@ -46,3 +46,17 @@ Tools: C#, MonoGame
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/LepeyTheCovetous)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/lepey-the-covetous)
+
+__The Horde__: A 2D top-down zombie shooter made in MonoGame and C#.
+
+Tools: C#, MonoGame
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheHorde)
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-horde)
+
+__Ceaseless__: A simple 2D endless runner made in Raylib and C++
+
+Tools: C#, SFML
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ceaseless)
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/ceaseless)
