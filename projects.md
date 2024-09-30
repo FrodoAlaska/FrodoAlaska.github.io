@@ -4,10 +4,10 @@ title: Projects
 ---
 
 # Sections
-[Games][#games]
-[CLIs][#clis]
-[Libraries][#libraries]
-[Other][#other]
+[Games](#games)
+[CLIs](#clis)
+[Libraries](#libraries)
+[Other](#other)
 
 # Games
 
