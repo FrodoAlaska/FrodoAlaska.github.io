@@ -34,7 +34,7 @@ Tools: _C++, OpenGL, GLFW3_
 
 __Who Am I?__: Take the boy out of the darkness
 
-Tools: C++, Raylib
+Tools: _C++, Raylib_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WhoAmI)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/who-am-i)                 
@@ -42,7 +42,7 @@ Tools: C++, Raylib
 
 __Our Only Hope__: A medieval peasant trying to defend his village from waves of zombies with only a spear.
 
-Tools: C++, Raylib, YAML
+Tools: _C++, Raylib, YAML_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/OurOnlyHope)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/our-only-hope)                    
@@ -50,7 +50,7 @@ Tools: C++, Raylib, YAML
 
 __Poly Shooter__: An arcade space shooter
 
-Tools: C++, SDL2
+Tools: _C++, SDL2_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/PolyShooter)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/poly-shooter)                     
@@ -58,7 +58,7 @@ Tools: C++, SDL2
 
 __Lepey The Covetous__: A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun
 
-Tools: C#, MonoGame
+Tools: _C#, MonoGame_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/LepeyTheCovetous)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/lepey-the-covetous)           
@@ -66,7 +66,7 @@ Tools: C#, MonoGame
 
 __The Horde__: A 2D top-down zombie shooter
 
-Tools: C#, MonoGame
+Tools: _C#, MonoGame_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheHorde)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-horde)                
@@ -74,7 +74,7 @@ Tools: C#, MonoGame
 
 __Ceaseless__: A simple 2D endless runner
 
-Tools: C#, Raylib
+Tools: _C#, Raylib_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ceaseless)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/ceaseless)                
@@ -84,14 +84,14 @@ Tools: C#, Raylib
 
 __Ymir__: A lightweight C++ project generator
 
-Tools: C++, OpenGL, GLFW3, ImGui
+Tools: _C++, OpenGL, GLFW3, ImGui_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ymir)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Backlog__: A simple CLI application where you can add games, films, shows, or anime to your ever-growing backlog
 
-Tools: C++
+Tools: _C++_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Backlog)                  
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
@@ -100,21 +100,21 @@ Tools: C++
 
 __Gravel__: A minimalist game framework/template. The gravel of your game. Hah
 
-Tools: C++, OpenGL, GLFW3
+Tools: _C++, OpenGL, GLFW3_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Gravel)                   
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __MSTR__: A string library made purely in C
 
-Tools: C
+Tools: _C_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/MSTR)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Wonder Audio__: An audio library for playing and loading audio clips.
 
-Tools: C++, PortAudio, dr_libs
+Tools: _C++, PortAudio, dr_libs_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WonderAudio)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
@@ -123,7 +123,7 @@ Tools: C++, PortAudio, dr_libs
 
 __Levelizer__: A data serialization language specifically made to serialize and deserialize levels and scenes.
 
-Tools: C++
+Tools: _C++_
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Levelizer)            
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
