@@ -10,7 +10,7 @@ title: Projects
 Tools: C++, OpenGL, GLFW3
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheProblemSolver) 
-[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver) 
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Cube Run__: A minimal 3D endless runner made entirely from scratch
@@ -18,7 +18,7 @@ __Cube Run__: A minimal 3D endless runner made entirely from scratch
 Tools: C++, OpenGL, GLFW3
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/CubeRun)
-[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run) 
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run)             
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Who Am I?__: Take the boy out of the darkness
@@ -26,7 +26,7 @@ __Who Am I?__: Take the boy out of the darkness
 Tools: C++, Raylib
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WhoAmI)
-[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/who-am-i) 
+[![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/who-am-i)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Our Only Hope__: A medieval peasant trying to defend his village from waves of zombies with only a spear.
