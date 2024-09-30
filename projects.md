@@ -3,6 +3,12 @@ layout: page
 title: Projects
 ---
 
+# Sections
+[Games][#games]
+[CLIs][#clis]
+[Libraries][#libraries]
+[Other][#other]
+
 # Games
 
  __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems. 
@@ -67,4 +73,52 @@ Tools: C#, Raylib
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ceaseless)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/ceaseless)                
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+# CLIs 
+
+__Ymir__: A lightweight C++ project generator
+
+Tools: C++, OpenGL, GLFW3, ImGui
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ymir)                 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+__Backlog__: A simple CLI application where you can add games, films, shows, or anime to your ever-growing backlog
+
+Tools: C++
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Backlog)                  
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+# Libraries 
+
+__Gravel__: A minimalist game framework/template. The gravel of your game. Hah
+
+Tools: C++, OpenGL, GLFW3
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Gravel)                   
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+__MSTR__: A string library made purely in C
+
+Tools: C
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/MSTR)                 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+__Wonder Audio__: An audio library for playing and loading audio clips.
+
+Tools: C++, PortAudio, dr_libs
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WonderAudio)                 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+# Other
+
+__Levelizer__: A data serialization language specifically made to serialize and deserialize levels and scenes.
+
+Tools: C++
+
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Levelizer)            
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
