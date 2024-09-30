@@ -13,7 +13,7 @@ Tools: C++, OpenGL, GLFW3
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)       
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-__Cube Run__: A minimal 3D endless runner made entirely from scratch using OpenGL and C++
+__Cube Run__: A minimal 3D endless runner made entirely from scratch
 
 Tools: C++, OpenGL, GLFW3
 
@@ -22,7 +22,7 @@ Tools: C++, OpenGL, GLFW3
 
 ***
 
-__Who Am I?__: A linear story-based 2D side-scroller made with Raylib.
+__Who Am I?__: Take the boy out of the darkness
 
 Tools: C++, Raylib
 
@@ -38,7 +38,7 @@ Tools: C++, Raylib, YAML
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/OurOnlyHope)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/our-only-hope)
 
-__Poly Shooter__: An arcade space shooter made in SDL and C++.
+__Poly Shooter__: An arcade space shooter
 
 Tools: C++, SDL2
 
@@ -52,16 +52,16 @@ Tools: C#, MonoGame
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/LepeyTheCovetous)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/lepey-the-covetous)
 
-__The Horde__: A 2D top-down zombie shooter made in MonoGame and C#.
+__The Horde__: A 2D top-down zombie shooter
 
 Tools: C#, MonoGame
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheHorde)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-horde)
 
-__Ceaseless__: A simple 2D endless runner made in Raylib and C++
+__Ceaseless__: A simple 2D endless runner
 
-Tools: C#, SFML
+Tools: C#, Raylib
 
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ceaseless)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/ceaseless)
