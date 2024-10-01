@@ -94,7 +94,7 @@ __Ymir__: A lightweight C++ project generator
 
 ![Ymir](https://mohamedag2002.github.io/assets/img/screenshots/ymir.png)
 
-Tools: _C++, OpenGL, GLFW3, ImGui_  
+Tools: _C++, Bash, OpenGL, GLFW3, ImGui_  
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ymir)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
