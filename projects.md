@@ -100,8 +100,7 @@ Tools: _C++, Bash, OpenGL, GLFW3, ImGui_
 
 __Backlog__: A simple CLI application where you can add games, films, shows, or anime to your ever-growing backlog
 
-Tools: _C++_
-
+Tools: _C++_    
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Backlog)                  
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
@@ -109,22 +108,19 @@ Tools: _C++_
 
 __Gravel__: A minimalist game framework/template. The gravel of your game. Hah
 
-Tools: _C++, OpenGL, GLFW3_
-
+Tools: _C++, OpenGL, GLFW3_         
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Gravel)                   
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __MSTR__: A string library made purely in C
 
-Tools: _C_
-
+Tools: _C_      
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/MSTR)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Wonder Audio__: An audio library for playing and loading audio clips.
 
-Tools: _C++, PortAudio, dr_libs_
-
+Tools: _C++, PortAudio, dr_libs_            
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WonderAudio)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
@@ -132,7 +128,6 @@ Tools: _C++, PortAudio, dr_libs_
 
 __Levelizer__: A data serialization language specifically made to serialize and deserialize levels and scenes.
 
-Tools: _C++_
-
+Tools: _C++_            
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Levelizer)            
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
