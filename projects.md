@@ -24,10 +24,10 @@ Tools: _C++, OpenGL, GLFW3_
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-__Cube Run__: A minimal 3D endless runner made entirely from scratch
+__Cube Run__: A minimal 3D endless runner made entirely from scratch        
+[Cube Run](https://mohamedag2002.github.io/assets/img/screenshots/cube_run.png)
 
-Tools: _C++, OpenGL, GLFW3_
-
+Tools: _C++, OpenGL, GLFW3_     
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/CubeRun)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run)             
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
