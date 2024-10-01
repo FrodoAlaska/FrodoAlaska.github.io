@@ -17,6 +17,7 @@ title: Projects
 # Games
 
  __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems.        
+
 ![The Problem Solver](https://mohamedag2002.github.io/assets/img/screenshots/tps.png)
 
 Tools: _C++, OpenGL, GLFW3_     
@@ -25,6 +26,7 @@ Tools: _C++, OpenGL, GLFW3_
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Cube Run__: A minimal 3D endless runner made entirely from scratch        
+
 ![Cube Run](https://mohamedag2002.github.io/assets/img/screenshots/cube_run.png)
 
 Tools: _C++, OpenGL, GLFW3_     
@@ -33,6 +35,7 @@ Tools: _C++, OpenGL, GLFW3_
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Who Am I?__: Take the boy out of the darkness             
+
 ![Who Am I?](https://mohamedag2002.github.io/assets/img/screenshots/who-am-i.png)
 
 Tools: _C++, Raylib_                    
@@ -41,6 +44,7 @@ Tools: _C++, Raylib_
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Our Only Hope__: A medieval peasant trying to defend his village from waves of zombies with only a spear.             
+
 ![Our Only Hope](https://mohamedag2002.github.io/assets/img/screenshots/ooh.png)
 
 Tools: _C++, Raylib, YAML_          
@@ -48,34 +52,38 @@ Tools: _C++, Raylib, YAML_
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/our-only-hope)                    
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-__Poly Shooter__: An arcade space shooter
+__Poly Shooter__: An arcade space shooter           
 
-Tools: _C++, SDL2_
+![Poly Shooter](https://mohamedag2002.github.io/assets/img/screenshots/poly-shooter.png)
 
+Tools: _C++, SDL2_          
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/PolyShooter)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/poly-shooter)                     
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-__Lepey The Covetous__: A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun
+__Lepey The Covetous__: A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun       
 
-Tools: _C#, MonoGame_
+![Lepey The Covetous](https://mohamedag2002.github.io/assets/img/screenshots/lepey.png)
 
+Tools: _C#, MonoGame_           
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/LepeyTheCovetous)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/lepey-the-covetous)           
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __The Horde__: A 2D top-down zombie shooter
 
-Tools: _C#, MonoGame_
+![The Horde](https://mohamedag2002.github.io/assets/img/screenshots/horde.png)
 
+Tools: _C#, MonoGame_       
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheHorde)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-horde)                
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Ceaseless__: A simple 2D endless runner
 
-Tools: _C#, Raylib_
+![Ceaseless](https://mohamedag2002.github.io/assets/img/screenshots/ceaseless.png)
 
+Tools: _C#, Raylib_             
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ceaseless)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/ceaseless)                
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
@@ -84,8 +92,9 @@ Tools: _C#, Raylib_
 
 __Ymir__: A lightweight C++ project generator
 
-Tools: _C++, OpenGL, GLFW3, ImGui_
+![Ymir](https://mohamedag2002.github.io/assets/img/screenshots/ymir.png)
 
+Tools: _C++, OpenGL, GLFW3, ImGui_  
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Ymir)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
