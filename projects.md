@@ -16,26 +16,26 @@ title: Projects
 
 # Games
 
- __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems. 
+ __The Problem Solver__: A 3D western arcade shooter. Except, you are playing to solve your life's problems.        
+[!The Problem Solver](https://mohamedag2002.github.io/assets/img/screenshots/tps.png)
 
-Tools: _C++, OpenGL, GLFW3_
-
+Tools: _C++, OpenGL, GLFW3_     
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/TheProblemSolver) 
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 __Cube Run__: A minimal 3D endless runner made entirely from scratch        
-[Cube Run](https://mohamedag2002.github.io/assets/img/screenshots/cube_run.png)
+[!Cube Run](https://mohamedag2002.github.io/assets/img/screenshots/cube_run.png)
 
 Tools: _C++, OpenGL, GLFW3_     
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/CubeRun)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run)             
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-__Who Am I?__: Take the boy out of the darkness
+__Who Am I?__: Take the boy out of the darkness             
+[!Who Am I?](https://mohamedag2002.github.io/assets/img/screenshots/who-am-i.png)
 
-Tools: _C++, Raylib_
-
+Tools: _C++, Raylib_                    
 [![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/WhoAmI)
 [![Itch](https://mohamedag2002.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/who-am-i)                 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
