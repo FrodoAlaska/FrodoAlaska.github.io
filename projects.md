@@ -10,7 +10,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 - [CLIs](#clis)         
 - [Libraries](#libraries)       
 - [Other](#other)               
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 # Games
 
