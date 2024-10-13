@@ -103,6 +103,12 @@ Tools: _C++_
 
 # Libraries 
 
+__Socrates__: A simple, single-file math library specifically made for game development 
+
+Tools: _C++_         
+[![GitHub](https://mohamedag2002.github.io/assets/img/icons/github_icon.png)](http://github.com/MohamedAG2002/Socrates)                   
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
 __Gravel__: A minimalist game framework/template. The gravel of your game. Hah
 
 Tools: _C++, OpenGL, GLFW3_         
