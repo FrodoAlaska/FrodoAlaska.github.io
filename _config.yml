@@ -51,13 +51,12 @@ social-network-links:
   email: "mohamedag202@outlook.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: MohamedAG2002
-#  twitter: daattali
+  github: FrodoAlaska
+  twitter: smed132
 #  patreon: DeanAttali
 #  youtube: c/daattali
   medium: MohamedAG
-#  reddit: yourname
-  itch: frodoalaska.itch.io
+  reddit: FrodoAlaska
   linkedin: mohamed-gadalla-047696239
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -91,6 +90,7 @@ share-links-active:
   linkedin: true
   medium: true
   github: true
+  twitter: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

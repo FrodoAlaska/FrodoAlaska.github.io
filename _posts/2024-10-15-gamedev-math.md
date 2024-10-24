@@ -16,7 +16,7 @@ I watched tutorials whenever I was stuck with a particularly annoying math-inten
 It was really frustrating. It made me hate maths even more than I already did. Something had to change... and I'm not talking about your drinking habits. 
 
 # Socrates 
-What the bald guy? No, not him, silly. I'm talking about the greatest math library ever created. [Shameless plug](https://github.com/MohamedAG2002/Socrates.git). 
+What the bald guy? No, not him, silly. I'm talking about the greatest math library ever created. [Shameless plug](https://github.com/FrodoAlaska/Socrates.git). 
 
 Yes, I made a math library completely from scratch using nothing but my own two hands (C++) and a few pictures of your mom to keep me company. The person who was having a problem with rotations back in Unity is dead now. I killed him... no, officer, I meant figuratively.
 
