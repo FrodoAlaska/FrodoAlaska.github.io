@@ -103,6 +103,12 @@ Tools: _C++_
 
 # Libraries 
 
+__Ishtar__: A single-file suite of tools for C++
+
+Tools: _C++_         
+[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Ishtar)                   
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
 __Socrates__: A simple, single-file math library specifically made for game development 
 
 Tools: _C++_         
