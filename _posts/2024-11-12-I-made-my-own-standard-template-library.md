@@ -25,13 +25,14 @@ The third and final reason is control. I love to control every byte of memory th
 # The Rules 
 So before I get into my beautiful piece of code, I need to go over the rules and the inspiration of this library. I decided to set a few small rules for *thyself* before starting this library. Essentially I was not to use _any_ piece of code from the standard template library. So no `std::string`, no `std::array`, no `aids::uh_uh_ah_push_into_butt`, and so on. Any of the code of the data structures that will be implemented will be _my_ code and only my code. Now, I did permit myself to use things like `malloc`, `free`, `realloc`, `memcpy`, and so on. However, those are mandatory at this point since I _will_ need to allocate memory and I can't do that... unless I write my own operating system. And no that would be silly. I would never do that. Hey, google, how do I go to Finland? 
 
-# Insperations And Architecture
+# Inspirations And Architecture
 Now another thing we'll need to talk about is the architecture of this library. Even though I can go all `boost` style with this library and make `dlls` that are the size of your mom's left elbow, I will refrain from that. Instead, I'll take inspiration from the `stb_` collection of libraries. If you don't know, the `stb_` libraries are single-file-only libraries. Meaning, you don't have to link them or take cocaine in order to use them. All you have to do is copy the header file, make a `.cpp` or `.c` equivalent put this definition before the include statement `STB_IMAGE_IMPLEMENTATION`, make sure to build that translation unit with your project, and voila. You're using the library now. Obviously, there might be some cons with this approach but I think it's the simplest and most headache-free solution to the mess that is the C++ dependency hell. Now, by default, my library will be templated, meaning I'll be forced to use a header file-only approach anyway. However, not _everything_ in the library is going to be templated and we'll see that shortly. So, in the name of simplicity and ease of use, I'll be going with the `stb_` single-file approach. 
 
 Okay, so, without further ado, let's get riiiiiight into the code... here's a formal letter of apology for that. I'm very sorry.
 
 # Lists
 The simplest kind of data structure is the `Linked List`. It is probably the most primitive of data structures. If you ever want to learn a programming language, linked lists are probably the first thing you'll implement since it's very simple. They aren't really hard to understand either. It is just a series of nodes that are connected via links--or pointers in this case. A list of linked nodes. Linked list. Now, there are two types of linked lists: Singly linked and doubly linked. Singly-linked lists mean that each node is only connected to the node next to it. While--as you would have guessed--in a doubly linked list, a node is connected to the next _and_ previous node to it. Here's how I implemented nodes:
+
 ```c++
 template<typename T>
 class Node {
@@ -58,15 +59,10 @@ Here's how these roughly look in the library:
 
 ```c++
     Node<T>* get_at(const sizei index);
-
     void append(Node<T>* node);
-
     void prepend(Node<T>* node);
-
     void insert(Node<T>* node, Node<T>* prev, Node<T>* next);
-
     void remove(Node<T>* node);
-
     void remove_at(const sizei index); 
 ```
 
@@ -95,15 +91,13 @@ When we _push_ to a queue, we push to the back. When we _pop_, we pop from the f
 Here's an example of an event Queue in action:
 
 ```c++
-  ishtar::Queue<EventType> event_queue;
+ishtar::Queue<EventType> event_queue;
 
-  event_queue.emplace(EVENT_KEY_PRESSED);
-  event_queue.emplace(EVENT_KEY_RELEASED);
-  event_queue.emplace(EVENT_APP_QUIT);
-  event_queue.emplace(EVENT_WINDOW_RESIZED);
+event_queue.emplace(EVENT_KEY_PRESSED);
+event_queue.emplace(EVENT_KEY_RELEASED);  event_queue.emplace(EVENT_APP_QUIT);
+event_queue.emplace(EVENT_WINDOW_RESIZED);
 
-  event_queue.pop(); // Will pop `EVENT_KEY_PRESSED`
-  event_queue.pop(); // Will pop `EVENT_KEY_RELEASED`
+event_queue.pop(); // Will pop `EVENT_KEY_PRESSED`  event_queue.pop(); // Will pop `EVENT_KEY_RELEASED`
 ```
 
 # Stacks
@@ -114,15 +108,15 @@ Much like a queue, the stack also has the `push` and `pop` operations. However, 
 Here's a simple example:
 
 ```c++
-  ishtar::Stack<int> num_stack; 
+ishtar::Stack<int> num_stack; 
   
-  num_stack.emplace(101);
-  num_stack.emplace(202);
-  num_stack.emplace(303);
-  num_stack.emplace(404);
+num_stack.emplace(101);
+num_stack.emplace(202);
+num_stack.emplace(303);
+num_stack.emplace(404);
 
-   num_stack.pop(); // Will pop '404'
-   num_stack.pop(); // Will pop '303'
+num_stack.pop(); // Will pop '404'
+num_stack.pop(); // Will pop '303'
 ```
 
 # Dynamic Arrays 
@@ -160,16 +154,16 @@ There are many operations that a dynamic array possesses. They include but are n
 The most expensive operation out of all of these is probably the `remove` and `insert` functions. Since they do require to shuffle the whole array in order to account for the change in elements. And again, I would have never known the _true_ precautions of such operations until I implemented them myself. 
 
 ```c++
-  ishtar::DynamicArray<int> arr;
-  arr.reserve(50);  // Reserves 50 elements in the array. This is an alternative to passing an initial capacity to the constructor
+ishtar::DynamicArray<int> arr;
+arr.reserve(50);  // Reserves 50 elements in the array. This is an alternative to passing an initial capacity to the constructor
   
-  arr.append(0);
-  arr.append(1);
-  arr.append(2);
-  // ...
+arr.append(0);
+arr.append(1);
+arr.append(2);
+// ...
   
   // We can also take a slice of the array and copy it to another array
-  isthar::DynamicArray<int> slice_arr = arr.slice(0, 4); // Slice from the first index till the 4th index inclusive. 
+isthar::DynamicArray<int> slice_arr = arr.slice(0, 4); // Slice from the first index till the 4th index inclusive. 
 ```
 
 # Strings 
@@ -186,15 +180,15 @@ Now, strings are actually the only data structure in the library that isn't temp
 You should expect these at this point:
 
 ```c++
-  ishtar::String str1 = "hello"; // Implicit constructor
-  ishtar::String str2 = ", world";
+ishtar::String str1 = "hello"; // Implicit constructor
+ishtar::String str2 = ", world";
 
-  // We can append the strings together
-  str1.append(str2);
+// We can append the strings together
+str1.append(str2);
 
-  // Wow, how original
-  ishtar::String palindrome = "racecar :emordnilap";
-  palindrome.reverse();
+// Wow, how original
+ishtar::String palindrome = "racecar :emordnilap";
+palindrome.reverse();
 ```
 
 Speaking of length, the strings in this library are length-based and not null-terminated. You see, in C ("see" what I did there. Okay), each string has a "null" character (which is just a 0) appended to it. That's how the compiler will know _where_ the string ends. However, that is a stupid approach. Why? Because... fu.. ah... fuck you. So, instead, I went with the length approach. We don't have to go through the entire string until we find a null-terminator character. We can just store the length of the string right there in the data structure. This obviously has a lot of performance benefits since I don't have to calculate the length of the string _every time_ I need to do something with it. I can just recall it immediately.
@@ -237,21 +231,21 @@ In my opinion, the second solution _is_ better. However, it is much more headach
 `HashTable` in action:
 
 ```c++
-  // Creating a table with a capacity of '12'
-  ishtar::HashTable<int, ishtar::String> names(12); 
+// Creating a table with a capacity of '12'
+ishtar::HashTable<int, ishtar::String> names(12); 
 
-  names.set(32, "Buddy Guy Jones");
-  names.set(83, "Abigail Jack JR.");
-  names.set(128, "Salem Yunich Euler");
-  names.set(256, "Jackson Free Darnell");
-  names.set(512, "Ian Long Bundy");
-  names.set(1024, "Randall Axel Jones");
+names.set(32, "Buddy Guy Jones");
+names.set(83, "Abigail Jack JR.");
+names.set(128, "Salem Yunich Euler");
+names.set(256, "Jackson Free Darnell");
+names.set(512, "Ian Long Bundy");
+names.set(1024, "Randall Axel Jones");
  
-  // Retrieve the name at index `1024`
- ishtar::String randall = names.get(1024);
+// Retrieve the name at index `1024`
+ishtar::String randall = names.get(1024);
 
-  // Now that I think about it, using ints as keys wasn't the best idea. 
-  // But you can imagine the key being a string, for example. I'm dumb sometimes. On occasion. 
+// Now that I think about it, using ints as keys wasn't the best idea. 
+// But you can imagine the key being a string, for example. I'm dumb sometimes. On occasion. 
 ```
 
 # Conclusion
