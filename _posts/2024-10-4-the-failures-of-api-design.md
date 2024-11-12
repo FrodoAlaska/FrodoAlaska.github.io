@@ -3,7 +3,7 @@ layout: post
 title: The Failures Of API Design
 subtitle: And How I Fell Into The Trap
 comments: true
-tags: [api, gamdev, discussion, rant]
+tags: [api, gamedev, discussion, rant]
 ---
 
 It would be very easy to come on here and write about my absolute hate for modern APIs and how I completely despise them. I could tell you about the terrible state of modern APIs and how we got to this point. I love drama. I can go on about this for hours... but I will not. While sure, there will be a _tinge_ of drama, my main focus here will be on the failures of these APIs rather than going on a tirade about them. So, without the need to stall, let's get riiiiight into the post. Sorry about that. Oh just a note, though. When I'm talking about "APIs" I mean libraries and/or frameworks. Keep that in mind. So if you think that this doesn't apply to your project because it's a "framework" not an API, I would advise you to go see a doctor because you clearly have a lot of brain damage. Okay now let's start.
