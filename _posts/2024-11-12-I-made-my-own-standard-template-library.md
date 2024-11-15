@@ -149,7 +149,7 @@ So what would you do? Simple. There is another kind of constructor the dynamic a
 ishtar::DynamicArray<int> arr(24); // The array's initial capacity will be '24'
 ```
 
-There are many operations that a dynamic array possesses. They include but are not limited to `push_back' and `push_front', 'pop_front' and 'pop_back', `remove`, `insert`, `slice`, and many more. 
+There are many operations that a dynamic array possesses. They include but are not limited to `push_back` and `push_front', `pop_front` and `pop_back`, `remove`, `insert`, `slice`, and many more. 
 
 The most expensive operation out of all of these is probably the `remove` and `insert` functions. Since they do require to shuffle the whole array in order to account for the change in elements. And again, I would have never known the _true_ precautions of such operations until I implemented them myself. 
 
