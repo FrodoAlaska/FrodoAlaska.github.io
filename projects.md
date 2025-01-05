@@ -16,8 +16,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="highlight">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
-    <p class="highlight-text">The Nikol Engine</p> 
-    <a href="#nikol-engine" class="project-link">goto nikol;</a>
+    <p class="highlight-text"><a href="#nikol-engine" class="highlight-link">goto nikol-engine;</a></p>
 </div>
 
 # Games
@@ -32,8 +31,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">The Problem Solver</h3>
         <p class="project-desc">A 3D western arcade shooter. Except, you are playing to solve your life's problems.</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
-        <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/the-problem-solver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/the-problem-solver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -44,8 +45,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Cube Run</h3>
         <p class="project-desc">A minimal 3D endless runner made entirely from scratch.</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
-        <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/cube-run" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/cube-run" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -56,8 +59,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Who Am I?</h3>
         <p class="project-desc">Take the boy out of the darkness</p>
         <p><em>Tools: C++, Raylib</em></p>
-        <a href="http://github.com/FrodoAlaska/WhoAmI" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/who-am-i" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/WhoAmI" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/who-am-i" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -68,8 +73,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Our Only Hope</h3>
         <p class="project-desc">A medieval peasant trying to defend his village from waves of zombies with only a spear.</p>
         <p><em>Tools: C++, Raylib, YAML</em></p>
-        <a href="http://github.com/FrodoAlaska/OurOnlyHope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/our-only-hope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/OurOnlyHope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/our-only-hope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -80,8 +87,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Lepey The Covetous</h3>
         <p class="project-desc">A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun</p>
         <p><em>Tools: C#, MonoGame</em></p>
-        <a href="http://github.com/FrodoAlaska/LepeyTheCovetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/lepey-the-covetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/LepeyTheCovetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/lepey-the-covetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -92,8 +101,10 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">The Horde</h3>
         <p class="project-desc">A 2D top-down zombie shooter.</p>
         <p><em>Tools: C#, MonoGame</em></p>
-        <a href="http://github.com/FrodoAlaska/TheHorde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/the-horde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/TheHorde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/the-horde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -104,22 +115,28 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
+<!-- Ymir -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/ymir.png" alt="Ymir" class="project-image">
     <div class="project-content">
         <h3 class="project-title">Ymir</h3>
         <p class="project-desc">A lightweight C++ project generator</p>
         <p><em>Tools: C++, Bash, OpenGL, GLFW3, ImGui</em></p>
-        <a href="http://github.com/FrodoAlaska/Ymir" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Ymir" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
+<!-- Backlog -->
 <div class="project-card"> 
     <div class="project-content">
         <h3 class="project-title">Backlog</h3>
         <p class="project-desc">A simple CLI application where you can add games, films, shows, or anime to your ever-growing backlog</p>
         <p><em>Tools: C++</em></p>
-        <a href="http://github.com/FrodoAlaska/Backlog" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Backlog" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -137,7 +154,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 id="nikol-engine" class="project-title">The Nikol Engine</h3>
         <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
-        <a href="http://github.com/FrodoAlaska/Nikol" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Nikol" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -147,7 +166,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Ishtar</h3>
         <p class="project-desc">A single-file suite of tools for C++</p>
         <p><em>Tools: C++</em></p>
-        <a href="http://github.com/FrodoAlaska/Ishtar" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Ishtar" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -157,7 +178,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Socrates</h3>
         <p class="project-desc">Socrates is a simple, single-file math library specifically made for game/game engine development</p>
         <p><em>Tools: C++</em></p>
-        <a href="http://github.com/FrodoAlaska/Socrates" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Socrates" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -167,7 +190,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">MSTR</h3>
         <p class="project-desc">A string library made purely in C</p>
         <p><em>Tools: C</em></p>
-        <a href="http://github.com/FrodoAlaska/MSTR" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/MSTR" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -177,7 +202,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Wonder Audio</h3>
         <p class="project-desc">An audio library for playing and loading audio clips</p>
         <p><em>Tools: C++, PortAudio, dr_libs</em></p>
-        <a href="http://github.com/FrodoAlaska/WonderAudio" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/WonderAudio" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
 
@@ -192,6 +219,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Levelizer</h3>
         <p class="project-desc">A data serialization language specifically made to serialize and deserialize levels and scenes</p>
         <p><em>Tools: C++</em></p>
-        <a href="http://github.com/FrodoAlaska/Levelizer" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Levelizer" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
     </div>
 </div>
