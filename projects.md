@@ -6,8 +6,7 @@ title: Projects
 If you can't be bothered to look at all the projects below, here's a link to my resume (very professional I know) instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  
 
 # My Current Project
-![Nikol](https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif)
-[Nikol](##nikol)
+[![Nikol](https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif)](#nikol-engine)
 
 # Sections
 - [Games](#games)           
@@ -19,13 +18,13 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 ## **The Problem Solver**
 
-A 3D western arcade shooter. Except, you are playing to solve your life's problems.
+![The Problem Solver](https://frodoalaska.github.io/assets/img/screenshots/tps.png)\
 
-![The Problem Solver](https://frodoalaska.github.io/assets/img/screenshots/tps.png)
+A 3D western arcade shooter. Except, you are playing to solve your life's problems.
 
 Tools: _C++, OpenGL, GLFW3_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/TheProblemSolver) 
-[![Itch](https://frodoalaska.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
+[![Itch](https://frodoalaska.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)\
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 ## **Cube Run**
@@ -116,7 +115,7 @@ Tools: _C++_\
 
 # Libraries 
 
-## **Nikol**
+## **Nikol Engine**
  
 A cross-platform framework for window creation, input handling, and rendering using OpenGL.
 
