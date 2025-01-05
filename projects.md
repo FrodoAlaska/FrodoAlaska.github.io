@@ -18,7 +18,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 ## **The Problem Solver**
 
-![The Problem Solver](https://frodoalaska.github.io/assets/img/screenshots/tps.png)\
+![The Problem Solver](https://frodoalaska.github.io/assets/img/screenshots/tps.png)
 
 A 3D western arcade shooter. Except, you are playing to solve your life's problems.
 
@@ -122,8 +122,7 @@ A cross-platform framework for window creation, input handling, and rendering us
 ![Nikol](https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif)
 
 Tools: _C++, OpenGL, GLFW3_ \
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/TheProblemSolver) 
-[![Itch](https://frodoalaska.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)         
+[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Nikol) 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 ## **Ishtar**
