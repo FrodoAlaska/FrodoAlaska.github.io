@@ -1,33 +1,39 @@
 /* Special styles for the highlight on the top of the page */
 .highlight {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+
   background-color: #2a2a40;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.highlight-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }
 
 .highlight-text {
   font-size: 1rem;
   color: #f0f0f0;
-  line-height: 1.6;
-  margin-bottom: 15px;
+  border-radius: 5px;
 }
 
 .highlight-link {
-  padding: 10px 15px;
-  align-items: center; 
-
-  font-size: 1rem;
   font-weight: bold;
-  
   text-decoration: none;
-
   color: #ffffff;
-  background-color: #3a3aff;
-  
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
+}
+
+.highlight-link:hover {
+  color: #dddddd;
 }
 
 /* Custom styles for project cards */
