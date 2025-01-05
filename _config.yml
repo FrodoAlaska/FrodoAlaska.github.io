@@ -126,14 +126,14 @@ keywords: "sdl,sdl2,games,gamedev,game-development,games-from-scratch,c++,withou
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#28293f"
-navbar-text-col: "#AAAAAA"
+navbar-text-col: "#EEEEEE"
 navbar-border-col: "#282939"
 page-col: "#100E1C"
-text-col: "#AAAAAA"
+text-col: "#EEEEEE"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#100E1C"
-footer-text-col: "#AAAAAA"
+footer-text-col: "#EEEEEE"
 footer-link-col: "#3A015C"
 footer-hover-col: "#0085A1"
 

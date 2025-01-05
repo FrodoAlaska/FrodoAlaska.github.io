@@ -16,27 +16,31 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 # Games
 
-## **The Problem Solver**
+<div class="projects-container">
 
-![The Problem Solver](https://frodoalaska.github.io/assets/img/screenshots/tps.png)
+<div class="project-card">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/tps.png" alt="The Problem Solver" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">The Problem Solver</h3>
+        <p class="project-desc">A 3D western arcade shooter. Except, you are playing to solve your life's problems.</p>
+        <p>Tools: _C++, OpenGL, GLFW3_\</p>
+        <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <a href="https://frodoalaska.itch.io/the-problem-solver" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+    </div>
+</div>
 
-A 3D western arcade shooter. Except, you are playing to solve your life's problems.
+<div class="project-card">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/cube_run.png" alt="Cube Run" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">Cube Run</h3>
+        <p class="project-desc">A minimal 3D endless runner made entirely from scratch.</p>
+        <p>Tools: _C++, OpenGL, GLFW3_\</p>
+        <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <a href="https://frodoalaska.itch.io/cube-run" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+    </div>
+</div>
 
-Tools: _C++, OpenGL, GLFW3_\
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/TheProblemSolver) 
-[![Itch](https://frodoalaska.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/the-problem-solver)\
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
-
-## **Cube Run**
-
-![Cube Run](https://frodoalaska.github.io/assets/img/screenshots/cube_run.png)
-
-A minimal 3D endless runner made entirely from scratch
-
-Tools: _C++, OpenGL, GLFW3_\
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/CubeRun)
-[![Itch](https://frodoalaska.github.io/assets/img/icons/itch_icon.png)](https://frodoalaska.itch.io/cube-run)             
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+</div>
 
 ## **Who Am I?**
 
