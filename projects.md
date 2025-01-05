@@ -6,10 +6,10 @@ title: Projects
 If you can't be bothered to look at all the projects below, here's a link to my resume (very professional I know) instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  
 
 # My Current Project
-<div class="projects-container">
+<div class="highlight">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
     <p class="project-desc">The Nikol Engine</p> 
-    <a href="#nikol-engine">goto nikol;</a>
+    <a href="#nikol-engine" class="project-link">goto nikol;</a>
 </div>
 
 # Sections
