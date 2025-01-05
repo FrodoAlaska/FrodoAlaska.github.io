@@ -136,57 +136,52 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
-<b>Nikol Engine</b>
- 
-![Nikol](https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif)
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
+    <div class="project-content">
+        <h3 id="nikol-engine" class="project-title">The Nikol Engine</h3>
+        <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
+        <p><em>Tools: C++, OpenGL, GLFW3</em></p>
+        <a href="http://github.com/FrodoAlaska/Nikol" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
 
-A cross-platform framework for window creation, input handling, and rendering using OpenGL.
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 class="project-title">Ishtar</h3>
+        <p class="project-desc">A single-file suite of tools for C++</p>
+        <p><em>Tools: C++</em></p>
+        <a href="http://github.com/FrodoAlaska/Ishtar" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
 
-<em>Tools: C++, OpenGL, GLFW3</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Nikol) 
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 class="project-title">MSTR</h3>
+        <p class="project-desc">A string library made purely in C</p>
+        <p><em>Tools: C</em></p>
+        <a href="http://github.com/FrodoAlaska/MSTR" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
 
-<b>Ishtar</b>
-
-A single-file suite of tools for C++.
-
-<em>Tools: C++</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Ishtar)                   
-
-<b>Socrates</b>
-
-A simple, single-file math library specifically made for game development.
-
-<em>Tools: C++</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Socrates)                   
-
-<b>Gravel</b>
-
-A minimalist game framework/template. The gravel of your game. Hah.
-
-<em>Tools: C++, OpenGL, GLFW3</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Gravel)                   
-
-<b>MSTR</b>
-
-A string library made purely in C.
-
-<em>Tools: C</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/MSTR)                 
-
-<b>Wonder Audio</b>
-
-An audio library for playing and loading audio clips.
-
-<em>Tools: C++, PortAudio, dr_libs</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/WonderAudio)                 
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 class="project-title">Wonder Audio</h3>
+        <p class="project-desc">An audio library for playing and loading audio clips</p>
+        <p><em>Tools: C++, PortAudio, dr_libs</em></p>
+        <a href="http://github.com/FrodoAlaska/WonderAudio" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
 
 </div>
 
 # Other
 
-## **Levelizer** 
-
-A data serialization language specifically made to serialize and deserialize levels and scenes.
-
-<em>Tools: C++</em>
-[![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Levelizer)            
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 class="project-title">Levelizer</h3>
+        <p class="project-desc">A data serialization language specifically made to serialize and deserialize levels and scenes</p>
+        <p><em>Tools: C++</em></p>
+        <a href="http://github.com/FrodoAlaska/Levelizer" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
