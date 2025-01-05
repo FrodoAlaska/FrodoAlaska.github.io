@@ -1,3 +1,12 @@
+/* Special styles for the highlight on the top of the page */
+.highlight {
+  background-color: #2a2a40;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
 /* Custom styles for project cards */
 .projects-container {
   display: grid;
