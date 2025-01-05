@@ -11,7 +11,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 - [Libraries](#libraries)
 - [Other](#other)
 
-# My Current Project
+# Highlight
 <hr color="#ffffff">
 
 <div class="highlight">
@@ -25,6 +25,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
+<!-- The Problem Solver -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/tps.png" alt="The Problem Solver" class="project-image">
     <div class="project-content">
@@ -36,6 +37,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Cube Run -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/cube_run.png" alt="Cube Run" class="project-image">
     <div class="project-content">
@@ -47,6 +49,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Who Am I -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/who-am-i.png" alt="Who Am I?" class="project-image">
     <div class="project-content">
@@ -58,6 +61,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Our Only Hope -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/ooh.png" alt="Our Only Hope" class="project-image">
     <div class="project-content">
@@ -69,17 +73,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/poly-shooter.png" alt="Poly Shooter" class="project-image">
-    <div class="project-content">
-        <h3 class="project-title">Poly Shooter</h3>
-        <p class="project-desc">An arcade space shooter</p>
-        <p><em>Tools: C++, SDL2</em></p>
-        <a href="http://github.com/FrodoAlaska/PolyShooter" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/poly-shooter" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
-    </div>
-</div>
-
+<!-- Lepey The Covetous -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/lepey.png" alt="Lepey The Covetous" class="project-image">
     <div class="project-content">
@@ -91,6 +85,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- The Horde -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/horde.png" alt="The Horde" class="project-image">
     <div class="project-content">
@@ -135,6 +130,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
+<!-- Nikol Engine -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
     <div class="project-content">
@@ -145,6 +141,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Ishtar -->
 <div class="project-card"> 
     <div class="project-content">
         <h3 class="project-title">Ishtar</h3>
@@ -154,6 +151,17 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Socrates -->
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 class="project-title">Socrates</h3>
+        <p class="project-desc">Socrates is a simple, single-file math library specifically made for game/game engine development</p>
+        <p><em>Tools: C++</em></p>
+        <a href="http://github.com/FrodoAlaska/Socrates" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+    </div>
+</div>
+
+<!-- MSTR -->
 <div class="project-card"> 
     <div class="project-content">
         <h3 class="project-title">MSTR</h3>
@@ -163,6 +171,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
+<!-- Wonder Audio -->
 <div class="project-card"> 
     <div class="project-content">
         <h3 class="project-title">Wonder Audio</h3>
@@ -177,6 +186,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 # Other
 <hr color="#ffffff">
 
+<!-- Levelizer -->
 <div class="project-card"> 
     <div class="project-content">
         <h3 class="project-title">Levelizer</h3>
