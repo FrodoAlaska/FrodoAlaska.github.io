@@ -10,10 +10,9 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 - [CLIs](#clis)
 - [Libraries](#libraries)
 - [Other](#other)
-<hr>
 
 # My Current Project
-<hr>
+<hr color="#ffffff">
 
 <div class="highlight">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
@@ -22,7 +21,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 </div>
 
 # Games
-<hr>
+<hr color="#ffffff">
 
 <div class="projects-container">
 
@@ -106,7 +105,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 </div>
 
 # CLIs 
-<hr>
+<hr color="#ffffff">
 
 <div class="projects-container">
 
@@ -132,7 +131,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 </div>
 
 # Libraries 
-<hr>
+<hr color="#ffffff">
 
 <div class="projects-container">
 
@@ -176,6 +175,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 </div>
 
 # Other
+<hr color="#ffffff">
 
 <div class="project-card"> 
     <div class="project-content">
