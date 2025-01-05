@@ -22,7 +22,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
-<!-- The Problem Solver -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/tps.png" alt="The Problem Solver" class="project-image">
     <div class="project-content">
@@ -34,7 +33,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Cube Run -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/cube_run.png" alt="Cube Run" class="project-image">
     <div class="project-content">
@@ -46,7 +44,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Who Am I -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/who-am-i.png" alt="Who Am I?" class="project-image">
     <div class="project-content">
@@ -58,7 +55,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Our Only Hope -->
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/ooh.png" alt="Our Only Hope" class="project-image">
     <div class="project-content">
@@ -70,7 +66,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Poly Shooter -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/poly-shooter.png" alt="Poly Shooter" class="project-image">
     <div class="project-content">
@@ -82,7 +77,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Lepey The Covetous -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/lepey.png" alt="Lepey The Covetous" class="project-image">
     <div class="project-content">
@@ -94,7 +88,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- The Horde -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/horde.png" alt="The Horde" class="project-image">
     <div class="project-content">
