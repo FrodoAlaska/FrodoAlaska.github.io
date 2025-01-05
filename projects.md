@@ -24,8 +24,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">The Problem Solver</h3>
         <p class="project-desc">A 3D western arcade shooter. Except, you are playing to solve your life's problems.</p>
         <p>Tools: _C++, OpenGL, GLFW3_\</p>
-        <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/the-problem-solver" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <a href="https://frodoalaska.itch.io/the-problem-solver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
     </div>
 </div>
 
@@ -35,8 +35,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <h3 class="project-title">Cube Run</h3>
         <p class="project-desc">A minimal 3D endless runner made entirely from scratch.</p>
         <p>Tools: _C++, OpenGL, GLFW3_\</p>
-        <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
-        <a href="https://frodoalaska.itch.io/cube-run" class="project-link">img<src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
+        <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
+        <a href="https://frodoalaska.itch.io/cube-run" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png"></a>
     </div>
 </div>
 
