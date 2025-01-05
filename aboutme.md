@@ -3,20 +3,13 @@ layout: page
 title: About me
 ---
 
-# Who am I
+# What Is This?
+Performance, communication, and dedication. Those are the things that I extremely care about. Without them, a game will not be fun. Without them, a game will be another slop of mechanics that make no sense. 
 
-I am just a guy... that sounds cliche. Let's start again. 
-Hi... no, that sounds creepy. Okay, one more time.
-My name is... who cares about my name, though? Besides, it's my name is on the damn website.
-I like to make games. Okay, sounds promising. I also like... what do I like? OH! 
-I like to make games from SCRATCH! BOOM! Got it. First try. I am soooo GOOD at this! Wait, I have something better.
-Hello, I have no experience in gamedev and I'm making games in the hardest way possible... nope it's back to shit.
-Should've stuck with the previous one. Damn it.
+I learned how crucial performance can be since I spent the beginning of my game development years working on a very low-end PC. It really taught me how to squeeze every last drop of performance. That is why I ended up learning graphics APIs like OpenGL and Direct3D11. I made plenty of game engines, learning from each as I went along. 
 
-# What can you expect from this
+While I was freelancing for 2 years, I learned how important communication really is. Sometimes, the person right in front will not know what they need. You'll have to really know your tools and what you can provide to them. Not only that, communication relates very much to game development. You'll have to convey a certain feeling or emotion through gameplay. That requires a little bit of knowledge on how to communicate well. 
 
-I'm going to use this website as a way to put my thoughts in one place... not that my thoughts are important, but just in case someone also has the same thoughts asme. Of course, you're more welcome to critize and discuss whatever is on here if you want. I would love to get any feedback on anything I post here, event if they are small details. 
+And as for dedication, it is something I've had ever since I started this journey. I made games, game engines, tools, and many more applications just out of pure passion. I learned to program in C++, Java, and C#. I used game engines like Godot and Unity. I made my own game engines, allowing me to learn even more things like physics and graphics programming. And I even dwelt deep and created my own data serialization language for my games.
 
-I'll try to keep the posts on the topic of gamedev but, honestly, my thoughts are all over the place and I'll probably use this site to vent about things I hate as well. I'll also try to keep the posting schedule somewhat consistent, but I am known to not keep promises so take everything I take with a side eye and a towerl of your mustache. 
-
-Anyway, enjoy!
+Just expect a lot of blogs about these topics on here.
