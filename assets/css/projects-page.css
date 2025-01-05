@@ -7,6 +7,13 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+.highlight-text {
+  font-size: 1rem;
+  color: #f0f0f0;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
 /* Custom styles for project cards */
 .projects-container {
   display: grid;
