@@ -125,15 +125,15 @@ keywords: "sdl,sdl2,games,gamedev,game-development,games-from-scratch,c++,withou
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#11001C"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#290025"
+navbar-col: "#28293f"
+navbar-text-col: "#AAAAAA"
+navbar-border-col: "#282939"
 page-col: "#100E1C"
-text-col: "#FFFFFF"
+text-col: "#AAAAAA"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#100E1C"
-footer-text-col: "#FFFFFF"
+footer-text-col: "#AAAAAA"
 footer-link-col: "#3A015C"
 footer-hover-col: "#0085A1"
 
@@ -252,13 +252,10 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Egypt/Cairo"
-markdown: kramdown
+markdown: CommonMark
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
-kramdown:
-  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -268,7 +265,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:

@@ -29,9 +29,9 @@ Tools: _C++, OpenGL, GLFW3_\
 
 ## **Cube Run**
 
-A minimal 3D endless runner made entirely from scratch
-
 ![Cube Run](https://frodoalaska.github.io/assets/img/screenshots/cube_run.png)
+
+A minimal 3D endless runner made entirely from scratch
 
 Tools: _C++, OpenGL, GLFW3_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/CubeRun)
@@ -40,9 +40,9 @@ Tools: _C++, OpenGL, GLFW3_\
 
 ## **Who Am I?**
 
-Take the boy out of the darkness
-
 ![Who Am I?](https://frodoalaska.github.io/assets/img/screenshots/who-am-i.png)
+
+Take the boy out of the darkness
 
 Tools: _C++, Raylib_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/WhoAmI)
@@ -51,9 +51,9 @@ Tools: _C++, Raylib_\
 
 ## **Our Only Hope**
 
-A medieval peasant trying to defend his village from waves of zombies with only a spear.
-
 ![Our Only Hope](https://frodoalaska.github.io/assets/img/screenshots/ooh.png)
+
+A medieval peasant trying to defend his village from waves of zombies with only a spear.
 
 Tools: _C++, Raylib, YAML_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/OurOnlyHope)
@@ -62,9 +62,9 @@ Tools: _C++, Raylib, YAML_\
 
 ## **Poly Shooter**
 
-An arcade space shooter
-
 ![Poly Shooter](https://frodoalaska.github.io/assets/img/screenshots/poly-shooter.png)
+
+An arcade space shooter
 
 Tools: _C++, SDL2_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/PolyShooter)
@@ -73,9 +73,9 @@ Tools: _C++, SDL2_\
 
 ## **Lepey The Covetous**
 
-A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun
-
 ![Lepey The Covetous](https://frodoalaska.github.io/assets/img/screenshots/lepey.png)
+
+A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun
 
 Tools: _C#, MonoGame_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/LepeyTheCovetous)
@@ -84,9 +84,9 @@ Tools: _C#, MonoGame_\
 
 ## **The Horde**
 
-A 2D top-down zombie shooter.
-
 ![The Horde](https://frodoalaska.github.io/assets/img/screenshots/horde.png)
+
+A 2D top-down zombie shooter.
 
 Tools: _C#, MonoGame_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/TheHorde)
@@ -97,9 +97,9 @@ Tools: _C#, MonoGame_\
 
 ## **Ymir**
 
-A lightweight C++ project generator.
-
 ![Ymir](https://frodoalaska.github.io/assets/img/screenshots/ymir.png)
+
+A lightweight C++ project generator.
 
 Tools: _C++, Bash, OpenGL, GLFW3, ImGui_\
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Ymir)                 
@@ -117,9 +117,9 @@ Tools: _C++_\
 
 ## **Nikol Engine**
  
-A cross-platform framework for window creation, input handling, and rendering using OpenGL.
-
 ![Nikol](https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif)
+
+A cross-platform framework for window creation, input handling, and rendering using OpenGL.
 
 Tools: _C++, OpenGL, GLFW3_ \
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Nikol) 
