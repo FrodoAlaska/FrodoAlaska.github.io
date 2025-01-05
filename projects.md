@@ -5,18 +5,18 @@ title: Projects
 
 If you can't be bothered to look at all the projects below, here's a link to my resume (very professional I know) instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  
 
+# Sections
+- [Games](#games)           
+- [CLIs](#clis)         
+- [Libraries](#libraries)       
+- [Other](#other)               
+
 # My Current Project
 <div class="highlight">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
     <p class="highlight-text">The Nikol Engine</p> 
     <a href="#nikol-engine" class="project-link">goto nikol;</a>
 </div>
-
-# Sections
-- [Games](#games)           
-- [CLIs](#clis)         
-- [Libraries](#libraries)       
-- [Other](#other)               
 
 # Games
 
@@ -25,7 +25,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/tps.png" alt="The Problem Solver" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>The Problem Solver</em></h3>
+        <h3 class="project-title"><b>The Problem Solver</b></h3>
         <p class="project-desc">A 3D western arcade shooter. Except, you are playing to solve your life's problems.</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
         <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -105,21 +105,25 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
-## **Ymir**
+<b>Ymir</b>
 
 ![Ymir](https://frodoalaska.github.io/assets/img/screenshots/ymir.png)
 
-A lightweight C++ project generator.
+A lightweight C++ project generator
 
-Tools: C++, Bash, OpenGL, GLFW3, ImGui
+<em>Tools: C++, Bash, OpenGL, GLFW3, ImGui</em>
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Ymir)                 
 
-## **Backlog**
+<b>Backlog</b>
 
 A simple CLI application where you can add games, films, shows, or anime to your ever-growing backlog.
 
-Tools: C++
+<em>Tools: C++</em>
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/Backlog)                  
+
+</div>
+
+<div class="projects-container">
 
 # Libraries 
 
