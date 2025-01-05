@@ -25,7 +25,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/tps.png" alt="The Problem Solver" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>The Problem Solver<em></h3>
+        <h3 class="project-title"><em>The Problem Solver</em></h3>
         <p class="project-desc">A 3D western arcade shooter. Except, you are playing to solve your life's problems.</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
         <a href="http://github.com/FrodoAlaska/TheProblemSolver" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -36,7 +36,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/cube_run.png" alt="Cube Run" class="project-image">
     <div class="project-content">
-        <h3 class="project-title">Cube Run</h3>
+        <h3 class="project-title"><em>Cube Run</em></h3>
         <p class="project-desc">A minimal 3D endless runner made entirely from scratch.</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
         <a href="http://github.com/FrodoAlaska/CubeRun" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -47,7 +47,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/who-am-i.png" alt="Who Am I?" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>Who Am I?<em></h3>
+        <h3 class="project-title"><em>Who Am I?</em></h3>
         <p class="project-desc">Take the boy out of the darkness</p>
         <p><em>Tools: C++, Raylib</em></p>
         <a href="http://github.com/FrodoAlaska/WhoAmI" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -58,7 +58,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card">
     <img src="https://frodoalaska.github.io/assets/img/screenshots/ooh.png" alt="Our Only Hope" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>Our Only Hope<em></h3>
+        <h3 class="project-title"><em>Our Only Hope</em></h3>
         <p class="project-desc">A medieval peasant trying to defend his village from waves of zombies with only a spear.</p>
         <p><em>Tools: C++, Raylib, YAML</em></p>
         <a href="http://github.com/FrodoAlaska/OurOnlyHope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -69,7 +69,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/poly-shooter.png" alt="Poly Shooter" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>Poly Shooter<em></h3>
+        <h3 class="project-title"><em>Poly Shooter</em></h3>
         <p class="project-desc">An arcade space shooter</p>
         <p><em>Tools: C++, SDL2</em></p>
         <a href="http://github.com/FrodoAlaska/PolyShooter" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -80,7 +80,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/lepey.png" alt="Lepey The Covetous" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>Lepey The Covetous<em></h3>
+        <h3 class="project-title"><em>Lepey The Covetous</em></h3>
         <p class="project-desc">A game using the totally wrong and unrealistic Irish stereotype of a small drunk green leprechaun</p>
         <p><em>Tools: C#, MonoGame</em></p>
         <a href="http://github.com/FrodoAlaska/LepeyTheCovetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -91,7 +91,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/horde.png" alt="The Horde" class="project-image">
     <div class="project-content">
-        <h3 class="project-title"><em>The Horde<em></h3>
+        <h3 class="project-title"><em>The Horde</em></h3>
         <p class="project-desc"A 2D top-down zombie shooter.></p>
         <p><em>Tools: C#, MonoGame</em></p>
         <a href="http://github.com/FrodoAlaska/TheHorde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png"></a>
@@ -102,6 +102,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 </div>
 
 # CLIs 
+
+<div class="projects-container">
 
 ## **Ymir**
 
@@ -164,6 +166,8 @@ An audio library for playing and loading audio clips.
 
 Tools: C++, PortAudio, dr_libs
 [![GitHub](https://frodoalaska.github.io/assets/img/icons/github_icon.png)](http://github.com/FrodoAlaska/WonderAudio)                 
+
+</div>
 
 # Other
 
