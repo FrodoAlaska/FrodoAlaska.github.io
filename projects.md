@@ -15,7 +15,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <hr color="#ffffff">
 
 <div class="highlight">
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="highlight-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-2.gif" alt="Nikol" class="highlight-image">
     <p class="highlight-text"><a href="#nikol-engine" class="highlight-link">goto nikol-engine;</a></p>
 </div>
 
