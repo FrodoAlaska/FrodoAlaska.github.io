@@ -15,8 +15,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <hr color="#ffffff">
 
 <div class="highlight">
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-2.gif" alt="Nikol" class="highlight-image">
-    <p class="highlight-text"><a href="#nikol-engine" class="highlight-link">goto nikol-engine;</a></p>
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-2.gif" alt="Nikola" class="highlight-image">
+    <p class="highlight-text"><a href="#nikola-engine" class="highlight-link">goto nikola_engine;</a></p>
 </div>
 
 # Games
@@ -147,15 +147,15 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
-<!-- Nikol Engine -->
+<!-- Nikola Engine -->
 <div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikol" class="project-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikola" class="project-image">
     <div class="project-content">
-        <h3 id="nikol-engine" class="project-title">The Nikol Engine</h3>
+        <h3 id="nikola-engine" class="project-title">The Nikola Engine</h3>
         <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
         <p><em>Tools: C++, OpenGL, GLFW3</em></p>
         <div class="project-links">
-            <a href="http://github.com/FrodoAlaska/Nikol" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="http://github.com/FrodoAlaska/Nikola" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
         </div>
     </div>
 </div>
