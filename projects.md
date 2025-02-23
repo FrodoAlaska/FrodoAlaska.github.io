@@ -15,7 +15,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <hr color="#ffffff">
 
 <div class="highlight">
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-2.gif" alt="Nikola" class="highlight-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-3.mp4" alt="Nikola" class="highlight-image">
     <p class="highlight-text"><a href="#nikola-engine" class="highlight-link">goto nikola_engine;</a></p>
 </div>
 
@@ -149,7 +149,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <!-- Nikola Engine -->
 <div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy.gif" alt="Nikola" class="project-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-2.gif" alt="Nikola" class="project-image">
     <div class="project-content">
         <h3 id="nikola-engine" class="project-title">The Nikola Engine</h3>
         <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
