@@ -22,7 +22,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <hr color="#ffffff">
 
 <div class="highlight">
-    <video width="420", height="320" controls class="highlight-image"><source src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-3.mp4" type="video/mp4">Nikola</video>
+    <video width="420" height="320" controls class="highlight-image"><source src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-3.mp4" type="video/mp4">Nikola</video>
     <p class="highlight-text"><a href="#nikola-engine" class="highlight-link">goto nikola_engine;</a></p>
 </div>
 
