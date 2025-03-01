@@ -866,8 +866,8 @@ table tr td :last-child {
 
 code {
   padding: 0.125rem 0.25rem;
-  color: #ffffff;
-  background-color: #111111;
+  color: #f2f2f2;
+  background-color: #222222;
   border-radius: 0.25rem;
 }
 
@@ -878,6 +878,8 @@ pre code {
 }
 
 pre {
+  color: #f2f2f2;
+  background-color: #222222;
   font-size: 0.875rem;
   line-height: 1.5em;
   border-radius: 0.25rem;
@@ -890,7 +892,7 @@ pre {
 }
 .highlight > pre {
   background-image: linear-gradient(
-    rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
+    rgba(0.02,0.02,0.02,0.03), rgba(0.02,0.02,0.02,0.03) 1.5em, rgba(0.01,0.01,0.01,0.02) 1.5em, rgba(0.01,0.01,0.01,0.02) 3em);
   background-size: auto 3em;
   background-position-y: 0.625rem;
   border: 1px solid rgba(0,0,0,0.1);
