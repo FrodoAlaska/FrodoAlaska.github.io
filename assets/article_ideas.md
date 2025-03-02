@@ -1,6 +1,7 @@
 ## Engine Devlogs 
 - Making An OpenGL Graphics Wrapper: Talk about the `GfxContext` that I created, while going in-depth about how I wrapped OpenGL. 
 - The Hook Into The Engine: Talk about the application callback system and how would one start to use the engine in the first place. 
+- To Wrap Or Not To Wrap: Talk about the idea of either wrapping a certain third-party library around our implementation or creating it from scratch instead.
 - All About Resources: The resource manager, storage, NBR, and all the sorts. 
 - The Build System: Talk about CMake, my hatred for C++, the cool build scripts I wrote, and the whole "build pipeline" of this engine.
 - The GUI Situation: Talking about my goals with the GUI editor, what libraries I'm going to use, and how I implmeneted it.
