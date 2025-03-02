@@ -44,12 +44,22 @@ You see, for the past several years I have used many programming languages and m
 
 The one thing I _knew_ I wanted to do in this engine was to reduce the amount of dependencies as much as possible. I would not dare to go full [Handmade Hero](https://hero.handmade.network/)-style, but I still wanted to use the minimum amount of required dependencies to get me started. I wanted the engine to be as lightweight as I could make it be. And while SDL does have a multitude of systems that would be beneficial for me, it still included a 2D renderer that I would for sure _never_ use. I wanted to design and implement my own renderer, and having a "ghost" dependency in there just felt wrong to me. Besides that, SDL had its own way of handling textures, fonts, and audio files. While useful, it was very much unnecessary for me. I had in mind to create my own resource binary format which would, essentially, deprecate any need for `.png` files or the sort. Now, of course, I still need loaders to decode these image and audio files, but I already had a way better and smaller dependency for that in mind. 
 
-So what did I use, then? Well, I separated the engine dependencies into five categories. 
-    1. *Operating System Dependencies*: This is for things like window creation, input handling, the file system, console logging, and any operating system-specific operation 
-    2. *Graphics*: This is, as the name implies, anything to do with rendering and graphics. So the graphics API (OpenGL in this case), any UI libraries, and so on. 
-    3. *Audio*: Obviously, it has anything to do with audio. Not _decoding_ or _encoding_, but _playing_ audio by giving the audio card samples and having an audio thread active in the background.
-    3. *Math*: This might be a stretch but, besides the obvious math library, I also added physics dependencies in this category. 
-    4. *Resource Loaders*: Image loaders, audio files decoders, 3D model format parsers, and so on.
+So what did I use, then? Well, I separated the engine dependencies into five categories. The categories are laid out as such: 
+
+
+1. *Operating System Dependencies*: This is for things like window creation, input handling, the file system, console logging, and any operating system-specific operation 
+
+
+2. *Graphics*: This is, as the name implies, anything to do with rendering and graphics. So the graphics API (OpenGL in this case), any UI libraries, and so on. 
+
+
+3. *Audio*: Obviously, it has anything to do with audio. Not _decoding_ or _encoding_, but _playing_ audio by giving the audio card samples and having an audio thread active in the background.
+
+
+3. *Math*: This might be a stretch but, besides the obvious math library, I also added physics dependencies in this category. 
+
+
+4. *Resource Loaders*: Image loaders, audio files decoders, 3D model format parsers, and so on.
 
 Out of all of these, the first category--the operating system dependencies--is probably the one I thought about the most. Since SDL was out of the picture, I saw [GLFW](https://github.com/glfw/glfw) as a potential choice for handling window creation and input. An obvious choice, by many. And, seeing how I already had used it before, I thought it was obvious to me as well. Yet, there was a feeling I did not need it. After all, I decided from the start that I would _only_ support Windows and Linux. Not for any particular reason other than I use Linux on a daily basis and Windows has the bigger market. I did not have a Mac machine lying around somewhere (poor. I'm poor, basically). And as for consoles, well, that was a long stretch. I did not see the possibility of me _ever_ needing to port my games to consoles. At least not for the time being. And so, that means I only had to deal with the Win32, X11, and Wayland APIs. I say it as though it is an easy affair. It is not. Far from it. Especially if you had never dealt with these APIs before and had to start learning them, which was my case. So, instead, I picked a middle ground. I would use GLFW but I would design my API in such a way that would be easier to switch away from it in the future if needed. I'll write a more in-depth article about the window system and whatnot in the future. 
 
@@ -76,10 +86,15 @@ In the most simple of terms, a "single-header" library is what it sounds like: T
 
 The implementation code would effectively be _copied_ into the translation unit and then compiled normally. I _love_ these kind of libraries. They are usually easy to use, very easy to integrate, and a lightweight dependency overall. I even created a [library](https://github.com/FrodoAlaska/Socrates.git) or [two](https://github.com/FrodoAlaska/Ishtar.git) in the same vain just for fun. But why am I talking about single-header libraries now? Besides the fact that _most_ of my dependencies are single-header, I wanted to _somewhat_ imitate the _spirit_ of single-header libraries while avoiding the need to jumble all my code into one header file. While it is convenient to have all the code in one place and, once again, it would be very easy to integrate by other folks, but, seeing how I am already an unorganized person, I will refrain from the complexity that comes with such a design. Instead, I wanted to have separate translation units for every module, but keep the idea of a single-header file for the _definitions_. Let me explain. 
 
-This engine really has three parts: 
-    - *Core*: This is the _base_ of the whole engine. This is where the window, input, and event-handling systems live. The graphics API wrapper exists here as well. The logger, the asserts, many core typedefs, and so on. It is more of a "game engine-maker" if you will. 
-    - *Engine*: This is where mostly all of the code that will be used directly by the user (me) lives. The entities, the scenes, the resource manager, the application callbacks, the camera, the renderer, and so on. 
-    - *UI*: I have yet to make this part of the engine but it is essentially a wrapper around ImGui to handle the UI for any custom editors and such.
+This engine really has three parts.
+
+ - *Core*: This is the _base_ of the whole engine. This is where the window, input, and event-handling systems live. The graphics API wrapper exists here as well. The logger, the asserts, many core typedefs, and so on. It is more of a "game engine-maker" if you will. 
+
+
+- *Engine*: This is where mostly all of the code that will be used directly by the user (me) lives. The entities, the scenes, the resource manager, the application callbacks, the camera, the renderer, and so on. 
+
+
+- *UI*: I have yet to make this part of the engine but it is essentially a wrapper around ImGui to handle the UI for any custom editors and such.
 
 For each part of the engine, there exists a `.hpp` equivalent. There is a `nikola_core.hpp`, a `nikola_engine.hpp`, and a yet-to-be-created, `nikola_ui.hpp`. The `nikola_engine.hpp` depends on `nikola_core.hpp`, and `nikola_ui.hpp` depends on both. 
 
