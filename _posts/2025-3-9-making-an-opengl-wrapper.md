@@ -74,17 +74,16 @@ Now in order to use any of these types, a `GfxContext` is _required_ to be initi
 
 
 ```c++
-/// @NOTE: That `nullptr` is actually supposed to be a pointer to a `GfxFramebuffer`. 
-///
-/// In OpenGL, "framebuffers" are essentially the render targets. You would use them to apply post-processing effects, for example. 
-/// The OpenGL context itself has a default framebuffer that it uses. We as the developers cannot touch that default framebuffer in any way (not to my knowledge at least). 
-/// Hence, if you pass a `nullptr` to this function, the default OpenGL framebuffer will be used. 
-/// 
-/// This will be explained more in-depth in later devlogs when I talk about the renderer. 
+// Clear the screen
 gfx_context_clear(gfx_ctx, nullptr);
 
+// Enable the depth state
 gfx_context_set_state(gfx_ctx, GFX_STATE_DEPTH, true);
 ```
+
+By the way, That `nullptr` is actually supposed to be a pointer to a `GfxFramebuffer`. In OpenGL, "framebuffers" are essentially the render targets. You would use them to apply post-processing effects, for example. 
+The OpenGL context itself has a default framebuffer that it uses. We as the developers cannot touch that default framebuffer in any way (not to my knowledge at least). 
+Hence, if you pass a `nullptr` to this function, the default OpenGL framebuffer will be used. This will be explained more in-depth in later devlogs when I talk about the renderer. 
 
 But, again, if I were to add any other graphics API like DirectX11 or Vulkan, `GfxContext` would be _crucial_ for creating resources and drawing them, for example. Therefore, it is still alive for now.
 
