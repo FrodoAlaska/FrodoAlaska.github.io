@@ -2,7 +2,7 @@
 layout: post
 title: Making An OpenGL Wrapper
 subtitle: Nikola Engine Devlog 2
-comments: false
+comments: true
 tags: [gamedev, game-development, opengl, game-engine, nikola-engine, nikola, glfw, devlog, discussion]
 ---
 

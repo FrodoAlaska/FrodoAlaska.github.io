@@ -2,7 +2,7 @@
 layout: post
 title: Starting Up The Engine
 subtitle: Nikola Engine Devlog 1
-comments: false
+comments: true
 tags: [gamedev, game-development, opengl, game-engine, nikola-engine, nikola, glfw, devlog, discussion]
 ---
 

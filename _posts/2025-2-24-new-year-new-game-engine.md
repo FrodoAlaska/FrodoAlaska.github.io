@@ -2,7 +2,7 @@
 layout: post
 title: New Year, New Game Engine
 subtitle: Nikola Engine Devlog 0
-comments: false
+comments: true
 tags: [gamedev, game-development, opengl, game-engine, glfw, devlog, discussion]
 ---
 
