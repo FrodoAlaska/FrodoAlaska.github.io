@@ -1,13 +1,13 @@
 ## Engine Devlogs 
-- The Hook Into The Engine: Talk about the application callback system and how would one start to use the engine in the first place. 
-- The Build System: Talk about CMake, my hatred for C++, the cool build scripts I wrote, and the whole "build pipeline" of this engine.
-- To Wrap Or Not To Wrap: Talk about the idea of either wrapping a certain third-party library around our implementation or creating it from scratch instead.
 - A Custom Resource Format: Talk about NBR, why you made it, how you made it, and the tools you made for it.
 - All About Resources: The resource manager, storage, NBR, and all the sorts. 
-- The Frustrating World Of Fonts
 - The GUI Situation: Talking about my goals with the GUI editor, what libraries I'm going to use, and how I implmeneted it.
-- My Engine Looks Like Someone: Talk about my influences with this engine and where I got most of my ideas from. The Cherno, The Kohi Engine, Game Engine Arch book, Jon Blow, Handmade Hero, etc...
 - The Most Important Part Of Any Engine: Talk about the renderer, how you made it, what influenced you, and how the architicture looks like. 
+- Begin The Scene: Talk about the scene and entity systems
+- What To Work On Next?: Talk about the annoyance of trying to find the next system in the engine to work on and how it is better to proabably make a game while making the Engine
+- To Wrap Or Not To Wrap: Talk about the idea of either wrapping a certain third-party library around our implementation or creating it from scratch instead.
+- The Frustrating World Of Fonts: Fonts. Obviously.
+- My Engine Looks Like Someone: Talk about my influences with this engine and where I got most of my ideas from. The Cherno, The Kohi Engine, Game Engine Arch book, Jon Blow, Handmade Hero, etc...
 - Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed. Oh this shit is gonna be so lit hell yeah.
 
 ## Other 
