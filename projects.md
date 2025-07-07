@@ -23,9 +23,11 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 # Games
 <hr color="#ffffff">
 
+<div class="projects-container">
+
 <!-- Crossing The Line -->
 <div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/ctl.png" alt="The Horde" class="project-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/ctl.png" alt="Crossing The Line" class="project-image">
     <div class="project-content">
         <h3 class="project-title">Crossing The Line</h3>
         <p class="project-desc">Find your way through the treacherous highway in order to finally save yourself from your own mind and past.</p>
@@ -36,8 +38,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         </div>
     </div>
 </div>
-
-<div class="projects-container">
 
 <!-- The Problem Solver -->
 <div class="project-card">
@@ -105,6 +105,20 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <div class="project-links">
             <a href="http://github.com/FrodoAlaska/LepeyTheCovetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
             <a href="https://frodoalaska.itch.io/lepey-the-covetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
+
+<!-- The Horde -->
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/horde.png" alt="The Horde" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">The Horde</h3>
+        <p class="project-desc">A 2D top-down zombie shooter.</p>
+        <p><em>Tools: C#, MonoGame</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/TheHorde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/the-horde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
         </div>
     </div>
 </div>
