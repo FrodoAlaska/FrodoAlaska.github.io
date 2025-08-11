@@ -246,12 +246,12 @@ This is my first time making a binary format, though, so it's not the most perfe
 
 At the top of each NBR file lies the _header_ section. As discussed above, this section is supposed to give us an idea of the rest of the file. In my case, the header of an NBR file is structured as such:
 
-`
+```
 - Unique identifier   = 1 byte (unsigned)
 - Major version       = 2 bytes (signed)
 - Minor version       = 2 bytes (signed)
 - Resource type flag  = 2 bytes (unsigned)
-`
+```
 
 The unique identifier is there for "safety" purposes. Not every file with the `.nbr` extension will be an actual NBR file. Think of this as checking for the file's age before letting it into our very cool 21+ bar. This is usually called a "magic number", and it is called that because it is. There's no rhyme or reason (usually) to having this identifier be something helpful. Not in resource formats, anyway. Nonetheless, the unique identifier is only one byte, and it's just the average of the three ASCII values of the 'n', 'b', and 'r' characters. That would always be the value `107` no matter what. For extra safety reasons, I could probably have a more unique value with a certain pattern, perhaps. But I'm not making spaceships. I'm just making games where you can shoot zombies. That's it. 
 
