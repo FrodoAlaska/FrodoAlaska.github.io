@@ -13,17 +13,24 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 # Highlight
 
-<hr color="#ffffff">
-
-<div class="highlight">
-    <video width="640" height="420" controls class="highlight-image"><source src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-3.mp4" type="video/mp4">Nikola</video>
-    <p class="highlight-text"><a href="#nikola-engine" class="highlight-link">goto nikola_engine;</a></p>
-</div>
-
 # Games
 <hr color="#ffffff">
 
 <div class="projects-container">
+
+<!-- Dice Will Ya -->
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/dice.png" alt="Play Dice With Me, Will Ya?" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">Play Dice With Me, Will Ya?</h3>
+        <p class="project-desc">The 3D version of the very old Farkle dice game.</p>
+        <p><em>Tools: The Nikola Engine</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/DiceWillYa" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+            <a href="https://frodoalaska.itch.io/dice-will-ya" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
 
 <!-- Crossing The Line -->
 <div class="project-card"> 
@@ -31,7 +38,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     <div class="project-content">
         <h3 class="project-title">Crossing The Line</h3>
         <p class="project-desc">Find your way through the treacherous highway in order to finally save yourself from your own mind and past.</p>
-        <p><em>Tools: C++, OpenGL, GLFW3</em></p>
+        <p><em>Tools: The Nikola Engine</em></p>
         <div class="project-links">
             <a href="http://github.com/FrodoAlaska/CrossingTheLine" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
             <a href="https://frodoalaska.itch.io/crossing-the-line" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
@@ -81,20 +88,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-<!-- Our Only Hope -->
-<div class="project-card">
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/ooh.png" alt="Our Only Hope" class="project-image">
-    <div class="project-content">
-        <h3 class="project-title">Our Only Hope</h3>
-        <p class="project-desc">A medieval peasant trying to defend his village from waves of zombies with only a spear.</p>
-        <p><em>Tools: C++, Raylib, YAML</em></p>
-        <div class="project-links">
-            <a href="http://github.com/FrodoAlaska/OurOnlyHope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
-            <a href="https://frodoalaska.itch.io/our-only-hope" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
-        </div>
-    </div>
-</div>
-
 <!-- Lepey The Covetous -->
 <div class="project-card"> 
     <img src="https://frodoalaska.github.io/assets/img/screenshots/lepey.png" alt="Lepey The Covetous" class="project-image">
@@ -105,20 +98,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
         <div class="project-links">
             <a href="http://github.com/FrodoAlaska/LepeyTheCovetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
             <a href="https://frodoalaska.itch.io/lepey-the-covetous" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
-        </div>
-    </div>
-</div>
-
-<!-- The Horde -->
-<div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/horde.png" alt="The Horde" class="project-image">
-    <div class="project-content">
-        <h3 class="project-title">The Horde</h3>
-        <p class="project-desc">A 2D top-down zombie shooter.</p>
-        <p><em>Tools: C#, MonoGame</em></p>
-        <div class="project-links">
-            <a href="http://github.com/FrodoAlaska/TheHorde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
-            <a href="https://frodoalaska.itch.io/the-horde" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/itch_icon.png" class="link-icon"></a>
         </div>
     </div>
 </div>
