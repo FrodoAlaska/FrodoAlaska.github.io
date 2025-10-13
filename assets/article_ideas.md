@@ -19,9 +19,12 @@
 
 - The Frustrating World Of Fonts: Fonts. Obviously.
 
-- My Engine Looks Like Someone: Talk about my influences with this engine and where I got most of my ideas from. The Cherno, The Kohi Engine, Game Engine Arch book, Jon Blow, Handmade Hero, etc...
+## Design Studies
+- Dark Souls
 
 ## Other 
+- Why GameDev Freelancing Is The Worst Thing You Could Do: Talk about my experiences freelancing as a game developer and what that entailed. My experience with certain clients on both Fiverr and UpWork, and what to take away from it. The good, the bad, and the ugly.
+
 - Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed. Oh this shit is gonna be so lit hell yeah.
 
 - My Toxic "Made By Me" Trait - Talk about how I need to have everything made in house and never use any library or third-party frameworks, and how that did not benefit me in the slightest and even pushed me back.
