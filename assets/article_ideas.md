@@ -1,28 +1,12 @@
-## Engine Devlogs 
-- A Custom Resource Format: Talk about NBR, why you made it, how you made it, and the tools you made for it.
-
-- The GUI Situation: Talking about my goals with the GUI editor, what libraries I'm going to use, and how I implmeneted it.
-
-- Renderer: Since the "renderer" is a complicated beast of a system, let's break it up into multiple devlogs 
-    * Light Up My Day: Everything I learned about lighting, blinn-phong, blinn, why not PBR, etc..
-    * Compute and instancing and how render commands work in the engine. Show an example scene where instancing or compute shaders are being used.
-    * The render pass system and how it works. Talking about different passes. For example, the depth pass, the shadow pass, the bloom pass, the post-proccessing pass, etc...
-    * My super simple particle system and billboarding. 
-    * Shadows and how annoying and "incomplete" they are. 
-    * Animations and everything that entailed that.
-
-- Begin The Scene: Talk about the scene and entity systems
-
-- What To Work On Next?: Talk about the annoyance of trying to find the next system in the engine to work on and how it is better to proabably make a game while making the Engine
-
-- To Wrap Or Not To Wrap: Talk about the idea of either wrapping a certain third-party library around our implementation or creating it from scratch instead.
-
-- The Frustrating World Of Fonts: Fonts. Obviously.
-
 ## Design Studies
+
 - Dark Souls
+- KCD: The Madonna Of Sassau. Or something like that? Please, it's been taking over my brain...
 
 ## Other 
+
+- A Year Of Game Engine Development: Talk about the journey I took whilst creating Nikola. What I learned, what I did, what I wish I didn't do, and what I'll do in the future.
+
 - Why GameDev Freelancing Is The Worst Thing You Could Do: Talk about my experiences freelancing as a game developer and what that entailed. My experience with certain clients on both Fiverr and UpWork, and what to take away from it. The good, the bad, and the ugly.
 
 - Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed. Oh this shit is gonna be so lit hell yeah.
@@ -35,7 +19,7 @@
 
 - Why I Write C Code In C++: Talk about my C++ writing style and how it is _heavily_ influenced by C and why I do it this way.
 
-- Game Development -- In it for the long run: Talk about how many people are just not fit for game development and how it is a long and hard process that requires years of dedication.
+- Game Development--In it for the long run: Talk about how many people are just not fit for game development and how it is a long and hard process that requires years of dedication.
 
 - What's The Point Of Game Development?: Wouldn't it be more "useful" to go into roles like cybersecurity or even make useful application for people? Does gamedev really matter in the grand scheme of things? Making a game that will be played by some loser asshole in their mother's basement? But what about the normal people? The people that have terrible jobs and come back at the end of the day to relax and play your game? These people are dependant on you for enjoyment? But, still, does it really matter? Wouldn't it be better to learn cybersecurity to solve global problems? Help out the world and society in the long run? What's the point of game development? What's the point of games?
 
