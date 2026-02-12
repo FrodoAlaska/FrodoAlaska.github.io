@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-If you can't be bothered to look at all the projects below, here's a link to my resume (very professional I know) instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  
+If you can't be bothered to look at all the projects below, here's a link to my resume instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  
 
 # Sections
 - [Games](#games)
