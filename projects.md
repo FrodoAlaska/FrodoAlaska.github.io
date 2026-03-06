@@ -207,7 +207,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <!-- Osiris -->
 <div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/osirispng" alt="Osiris" class="project-image">
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/osiris.png" alt="Osiris" class="project-image">
     <div class="project-content">
         <h3 class="project-title">Osiris</h3>
         <p class="project-desc">A simple fantasy map generator, using simplex noise</p>
