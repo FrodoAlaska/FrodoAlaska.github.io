@@ -7,9 +7,8 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 # Sections
 - [Games](#games)
-- [CLIs](#clis)
+- [Tools](#tools)
 - [Libraries](#libraries)
-- [Other](#other)
 
 # Games
 <hr color="#ffffff">
@@ -102,10 +101,36 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 </div>
 
-# CLIs 
+# Tools 
 <hr color="#ffffff">
 
 <div class="projects-container">
+
+<!-- Osiris -->
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/osiris.png" alt="Osiris" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">Osiris</h3>
+        <p class="project-desc">A simple fantasy map generator, using simplex noise</p>
+        <p><em>Tools: C++</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Osiris" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
+
+<!-- Nikola Engine -->
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-4.png" alt="Nikola" class="project-image">
+    <div class="project-content">
+        <h3 id="nikola-engine" class="project-title">The Nikola Engine</h3>
+        <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
+        <p><em>Tools: C++, OpenGL, GLFW3</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Nikola" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
 
 <!-- Ymir -->
 <div class="project-card"> 
@@ -138,19 +163,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 <hr color="#ffffff">
 
 <div class="projects-container">
-
-<!-- Nikola Engine -->
-<div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/engine-thingy-4.png" alt="Nikola" class="project-image">
-    <div class="project-content">
-        <h3 id="nikola-engine" class="project-title">The Nikola Engine</h3>
-        <p class="project-desc">A cross-platform framework for window creation, input handling, and rendering using OpenGL</p>
-        <p><em>Tools: C++, OpenGL, GLFW3</em></p>
-        <div class="project-links">
-            <a href="http://github.com/FrodoAlaska/Nikola" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
-        </div>
-    </div>
-</div>
 
 <!-- Ishtar -->
 <div class="project-card"> 
@@ -200,24 +212,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
     </div>
 </div>
 
-</div>
-
-# Other
-<hr color="#ffffff">
-
-<!-- Osiris -->
-<div class="project-card"> 
-    <img src="https://frodoalaska.github.io/assets/img/screenshots/osiris.png" alt="Osiris" class="project-image">
-    <div class="project-content">
-        <h3 class="project-title">Osiris</h3>
-        <p class="project-desc">A simple fantasy map generator, using simplex noise</p>
-        <p><em>Tools: C++</em></p>
-        <div class="project-links">
-            <a href="http://github.com/FrodoAlaska/Osiris" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
-        </div>
-    </div>
-</div>
-
 <!-- Levelizer -->
 <div class="project-card"> 
     <div class="project-content">
@@ -228,4 +222,6 @@ If you can't be bothered to look at all the projects below, here's a link to my 
             <a href="http://github.com/FrodoAlaska/Levelizer" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
         </div>
     </div>
+</div>
+
 </div>
