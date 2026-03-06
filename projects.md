@@ -205,6 +205,19 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 # Other
 <hr color="#ffffff">
 
+<!-- Osiris -->
+<div class="project-card"> 
+    <img src="https://frodoalaska.github.io/assets/img/screenshots/osirispng" alt="Osiris" class="project-image">
+    <div class="project-content">
+        <h3 class="project-title">Osiris</h3>
+        <p class="project-desc">A simple fantasy map generator, using simplex noise</p>
+        <p><em>Tools: C++</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Osiris" class="project-link"><img src="https://frodoalaska.github.io/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
+
 <!-- Levelizer -->
 <div class="project-card"> 
     <div class="project-content">
