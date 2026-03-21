@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Projects
+layout: home
+title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
 If you can't be bothered to look at all the projects below, here's a link to my resume instead: [Resume](https://frodoalaska.github.io/assets/mohamedag_resume.pdf)  

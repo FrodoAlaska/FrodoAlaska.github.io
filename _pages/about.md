@@ -1,6 +1,8 @@
 ---
-layout: page
-title: About me
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
 ---
 
 # What Is This?
