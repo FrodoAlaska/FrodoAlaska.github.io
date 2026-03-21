@@ -2,7 +2,7 @@
 layout: single
 title: What I learned from Playing Older Games  
 subtitle: From An Indie GameDev Perspective
-comments: true
+author_profile: false
 tags: [gamedev, game-development, game-design, discussion]
 ---
 
