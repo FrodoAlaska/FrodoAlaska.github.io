@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: What I learned from Playing Older Games  
 subtitle: From An Indie GameDev Perspective
 comments: true
