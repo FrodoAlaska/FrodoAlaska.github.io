@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Making The Engine
 subtitle: Our Only Hope - Devlog 1
 comments: true

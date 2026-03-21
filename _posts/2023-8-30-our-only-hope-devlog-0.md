@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Importance Of Prototyping
 subtitle: Our Only Hope - Devlog 0
 comments: true

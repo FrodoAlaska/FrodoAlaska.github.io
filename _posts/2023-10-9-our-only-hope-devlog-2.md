@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Collision Conundrum
 subtitle: Our Only Hope - Devlog 2
 comments: true

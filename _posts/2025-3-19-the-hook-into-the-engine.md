@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Hook Into The Engine
 subtitle: Nikola Engine Devlog 3
 comments: true

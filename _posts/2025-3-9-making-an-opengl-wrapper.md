@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Making An OpenGL Wrapper
 subtitle: Nikola Engine Devlog 2
 comments: true

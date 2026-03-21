@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: My Bad Experience With Fiverr
 comments: true
 tags: [gamedev, freelancing, fiverr, rant]

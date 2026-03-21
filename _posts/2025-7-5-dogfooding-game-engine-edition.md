@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dogfooding - Game Engine Edition
 comments: true
 tags: [gamedev, game-development, game-engine, nikola-engine, nikola, discussion]

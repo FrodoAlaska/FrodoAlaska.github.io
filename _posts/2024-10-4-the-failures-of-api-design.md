@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Failures Of API Design
 subtitle: And How I Fell Into The Trap
 comments: true

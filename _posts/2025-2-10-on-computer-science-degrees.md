@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: On Computer Science Degrees
 subtitle: A Self-Taught Programmer's Perspective 
 comments: true

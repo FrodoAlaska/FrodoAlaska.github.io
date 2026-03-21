@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Implementing Audio With OpenAL
 subtitle: Nikola Engine Devlog 4
 comments: true

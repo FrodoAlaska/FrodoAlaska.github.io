@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Game Design Study - Diablo 1
 comments: true
 tags: [gamedev, game-development, game-design, diablo, discussion]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Stop Trying to Make an Open World RPG
 subtitle: Seriously, stop
 comments: true

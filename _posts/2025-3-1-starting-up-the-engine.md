@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Starting Up The Engine
 subtitle: Nikola Engine Devlog 1
 comments: true

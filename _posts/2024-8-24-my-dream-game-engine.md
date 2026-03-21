@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: My Dream Game Engine
 subtitle: And How I Failed To Create It
 comments: true

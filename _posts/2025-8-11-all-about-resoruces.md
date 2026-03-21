@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: All About Resources
 subtitle: Nikola Engine Devlog 5
 comments: true

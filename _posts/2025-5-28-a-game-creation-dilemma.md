@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Game Creation Dilemma
 comments: true
 tags: [gamedev, game-development, game-design, game-engine, nikola-engine, nikola, discussion]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Why make a game from scratch?
 subtitle: The ultimate question
 comments: true

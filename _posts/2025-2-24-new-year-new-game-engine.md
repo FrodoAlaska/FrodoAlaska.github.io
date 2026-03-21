@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Year, New Game Engine
 subtitle: Nikola Engine Devlog 0
 comments: true

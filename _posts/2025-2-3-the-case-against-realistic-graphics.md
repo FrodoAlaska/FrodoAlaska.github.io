@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Case Against Realistic Graphics
 comments: true
 tags: [gamedev, game-development, modern-graphics, rant, discussion, realistic-graphics, opengl, vulkan]
