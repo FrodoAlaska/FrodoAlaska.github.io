@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed"
-  avatar           : "/assets/img/dumb_face_2.jpg"
+  # avatar           : "/assets/img/dumb_face_2.jpg"
   bio              : "Some dude that can do games, I guess"
   location         : "Cairo, Egypt"
   email            :
