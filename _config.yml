@@ -116,8 +116,8 @@ analytics:
 author:
   name             : "Mohamed"
   avatar           : "/assets/img/dumb_face_2.jpg"
-  bio              : "Some dude that can do games, I guess"
-  location         : "Cairo, Egypt"
+  bio              : "Some dude that can make games, I guess"
+  # location         : "Cairo, Egypt"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -310,7 +310,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
