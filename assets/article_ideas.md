@@ -1,10 +1,10 @@
 ## Design Studies
 
-- KCD: The Madonna Of Sassau. Or something like that? Please, it's been taking over my brain...
+- Metal Gear Solid 2: Sons Of Liberty
 
 ## Other 
 
-- A Year Of Game Engine Development: Talk about the journey I took whilst creating Nikola. What I learned, what I did, what I wish I didn't do, and what I'll do in the future.
+- Why I Abandonded My 3D Game Engine: Talk about the journey I took whilst creating Nikola. What I learned, what I did, what I wish I didn't do, and what I'd do differently.
 
 - Why GameDev Freelancing Is The Worst Thing You Could Do: Talk about my experiences freelancing as a game developer and what that entailed. My experience with certain clients on both Fiverr and UpWork, and what to take away from it. The good, the bad, and the ugly.
 
