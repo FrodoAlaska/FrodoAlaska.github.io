@@ -1,26 +1,20 @@
 ## Design Studies
 
-- Metal Gear Solid 2: Sons Of Liberty
+- Metal Gear Solid 3: Snake Eater
 
 ## Other 
 
-- Why I Abandonded My 3D Game Engine: Talk about the journey I took whilst creating Nikola. What I learned, what I did, what I wish I didn't do, and what I'd do differently.
+- Making A 2D Engine As A 3D fanatic: Talk about my experinece of making a 2D engine and how it's both freeing and fun, but also hoow much I miss 3D.
 
-- Why GameDev Freelancing Is The Worst Thing You Could Do: Talk about my experiences freelancing as a game developer and what that entailed. My experience with certain clients on both Fiverr and UpWork, and what to take away from it. The good, the bad, and the ugly.
-
-- Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed. Oh this shit is gonna be so lit hell yeah.
+- Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed.
 
 - My Toxic "Made By Me" Trait - Talk about how I need to have everything made in house and never use any library or third-party frameworks, and how that did not benefit me in the slightest and even pushed me back.
 
 - Irritating C++: Talk about how _old_ C++ is and _feels_. How terrible it is for some projects that use the Win32 API and talk about your experience with trying to migrate projects to Linux.
 
-- Writing Blogs In 2026: Talk about my experience with writing blogs over the past 2 years and what I did wrong and what I could have done better. 
-
 - Game Development--In it for the long run: Talk about how many people are just not fit for game development and how it is a long and hard process that requires years of dedication.
 
 - The Undersold Art Of Games: Talk about how everyone just underestimates how powerful stories and games can be in general. And how a lot of "gamers" are not truly appreciating it. Pretentious maybe?
-
-- Why I Think Politicians Should Think More Like Programmers: Talk about how politicians are very emotional people who are very impractical about certain things. They will go on a crusade, swearing that _their_ solution is the _only_ and the most correct answer to many problems. And how that's fucking dumb when you put it into a programming problem. There is no perfect solution. There are only imperfect ones that are close/good enough.
 
 - GameDev YouTube: The Good And The Bad: Talk about how educational content in youtube when it comes to gamedev is only valuable when you get into the details. And how the funnny haha videos are really irretating and annoying and kind of demotivating. Talk about my qualms and my idea of becoming youtuber and how I really sort of hated it and regret it. How "essays" aren't really essays on youtube. They're just opinioniated videos. Which is fine, just to don't call them "essays" or "documentatries". I don't know. Just riff on youtubers. It's fun.
 

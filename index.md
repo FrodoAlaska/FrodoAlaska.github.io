@@ -101,6 +101,18 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <div class="projects-container">
 
+<!-- Freya Engine -->
+<div class="project-card"> 
+    <div class="project-content">
+        <h3 id="freya-engine" class="project-title">The Freya Engine</h3>
+        <p class="project-desc">A very capable 2D engine for all your 2D needs, supporting Windows, Linux, and the Web</p>
+        <p><em>Tools: C++, GLFW3, Sokol</em></p>
+        <div class="project-links">
+            <a href="http://github.com/FrodoAlaska/Freya" class="project-link"><img src="/assets/img/icons/github_icon.png" class="link-icon"></a>
+        </div>
+    </div>
+</div>
+
 <!-- Osiris -->
 <div class="project-card"> 
     <img src="/assets/img/screenshots/osiris.png" alt="Osiris" class="project-image">
