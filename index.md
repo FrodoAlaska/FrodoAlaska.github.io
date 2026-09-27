@@ -103,6 +103,7 @@ If you can't be bothered to look at all the projects below, here's a link to my 
 
 <!-- Freya Engine -->
 <div class="project-card"> 
+    <img src="/assets/img/screenshots/freya-logo.png" alt="Freya" class="project-image">
     <div class="project-content">
         <h3 id="freya-engine" class="project-title">The Freya Engine</h3>
         <p class="project-desc">A very capable 2D engine for all your 2D needs, supporting Windows, Linux, and the Web</p>

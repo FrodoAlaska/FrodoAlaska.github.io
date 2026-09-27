@@ -4,7 +4,7 @@
 
 ## Other 
 
-- Making A 2D Engine As A 3D fanatic: Talk about my experinece of making a 2D engine and how it's both freeing and fun, but also hoow much I miss 3D.
+- Making A 2D Engine As A 3D fanatic: Talk about my experinece of making a 2D engine and how it's both freeing and fun, but also how much I miss 3D.
 
 - Leaving The C++ Mudhole: This is a devlog long in the making. Talk about switching to Odin and what are the pros and cons of that. What I gained and what I missed.
 
